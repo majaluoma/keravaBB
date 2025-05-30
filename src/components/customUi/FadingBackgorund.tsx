@@ -6,6 +6,7 @@ type FadingBackgroundProps = {
 
 export default function FadingBackground({ image }: Readonly<FadingBackgroundProps>) {
   const [opacity, setOpacity] = useState(1);
+  const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -21,10 +22,14 @@ export default function FadingBackground({ image }: Readonly<FadingBackgroundPro
 
   return (
     <img
-      className="fixed left-0 h-screen w-full object-cover top-0"
+      className="fixed left-0 h-screen w-full object-cover top-0 transition-opacity duration-700"
       src={image}
       alt="nature"
-      style={{ opacity: opacity }}
+      style={{
+        opacity: loaded ? opacity : 0,
+        transition: 'opacity 0.7s',
+      }}
+      onLoad={() => setLoaded(true)}
     />
   );
 }
