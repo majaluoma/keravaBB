@@ -1,5 +1,5 @@
 # Sivun luominen
-Sivustolle voi luoda julkaisuja Markdown -kirjoittamisella. Opas siihen on tässä alhaalla. Jos kyseessä on uusi sivu luo tiedosto esim liekkipipot.md ja lähetä se Ollille. Jos haluat muuttaa vanhaa sivua, voit tehdä sen myös itse osoitteessa [github.com/majaluoma/keravabb ](https://github.com/majaluoma/keravaBB) pyytämällä oikeudet repoon. Muokattavat tekstit löytyvät kansiosta public/siteTexts. 
+Sivustolle voi luoda julkaisuja Markdown -kirjoittamisella. Opas siihen on tässä alhaalla. Jos kyseessä on uusi blogikirjoitus, luo tiedosto text.md ja lähetä se Ollille. Jos haluat muuttaa vanhaa sivua, voit tehdä sen myös itse osoitteessa [github.com/majaluoma/keravabb ](https://github.com/majaluoma/keravaBB) pyytämällä oikeudet repoon. Muokattavat tekstit löytyvät kansiosta public/siteTexts. 
 
 
 **Markdown** on yksinkertainen tapa kirjoittaa muotoiltua tekstiä ilman erillistä tekstinkäsittelyohjelmaa. Se on kuin tavallista tekstiä, mutta pienillä lisämerkeillä voit tehdä esim. **otsikoita**, *kursiivia*, listoja ja linkkejä.
