@@ -38,11 +38,11 @@ export default function Blog({ single, batch }: Readonly<BlockProps>) {
     <>
       <div>
         <FadingBackground image={wallpaper1} />
-        <div className="text-card relative top-20">
+        <div className="text-card relative top-20 bg-primary rounded-2xl p-4">
           <h1 className="font-headline text-6xl font-bold">
             Urheilu uutiset
           </h1>
-          <p>Toimittaja: Olli Majaluoma</p>
+          <p>Katso kuvat</p>
         </div>
       </div>
 

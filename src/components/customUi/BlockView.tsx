@@ -1,6 +1,6 @@
 type BlockViewProps = {
   children: React.ReactNode;
-  variant?: 'default' | 'primary' | 'secondary' | 'white';
+  variant?: 'default' | 'primary' | 'secondary' | 'white'| 'card';
   className?: string;
 };
 
@@ -15,6 +15,8 @@ export default function BlockView({
     switch (variant) {
       case 'default':
         return '';
+        case 'card':
+        return 'bg-card'+ ' ' + shadow;;
       case 'primary':
         return 'bg-primary' + ' ' + shadow;
       case 'secondary':
