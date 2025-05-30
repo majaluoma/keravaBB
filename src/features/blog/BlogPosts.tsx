@@ -22,7 +22,7 @@ export default function BlogPosts({ blogposts }: Readonly<BlogPostsProps>) {
                 {blogpost.date.toLocaleDateString()}
               </p>
               <TextContent
-                markdownFile={`/siteTexts/blogEntries/${blogpost.id}/text.md`}
+                markdownFile={`/siteTexts/blogEntries/${blogpost.id}/text.md?cb=${Date.now()}`}
               />
             </div>
           );
