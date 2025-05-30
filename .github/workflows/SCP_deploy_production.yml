@@ -1,0 +1,66 @@
+# This .yml -file is applied to github workflows, becaus it is in .github/workflows -folder
+name: Deploy
+
+# It will trigger on push to main branch only
+on:
+  push:
+    branches:
+      - main
+
+# after the trigger, it will build application using Github's actions in a github's ubuntu virtual machine.
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build project
+        run: npm run buildForProduction
+
+      #build folder is uploaded as an artifact. This service is provided by github.
+      #We need the artifact to use it in deploy phase
+      - name: Upload production-ready build files
+        uses: actions/upload-artifact@v4
+        with:
+          name: production-files
+          path: ./dist
+  #After build we deploy the dist -folder  from artifacts only with scp service
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: production-files
+          path: ./dist
+
+      #transfer SSH -key to file so scp can use it to sign the document
+      - name: Set up SSH Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.PRIVATE_SSH_SECRET_KEY }}" > ~/.ssh/id_rsa
+          ssh-keyscan -p ${{ secrets.SSH_SERVER_PORT }} ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/id_rsa
+
+      #Use SSH-key and destination to transfer the artifact to server
+      - name: SCP file to server
+        run: |
+          scp -i ~/.ssh/id_rsa -P ${{ secrets.SSH_SERVER_PORT }} -r ./dist/* ${{ secrets.SSH_ACCOUNT }}@${{ secrets.SERVER_HOST }}:keravabb.majaluoma.fi
+
+      - name: Clean up SSH key
+        run: |
+          rm -f ~/.ssh/id_rsa

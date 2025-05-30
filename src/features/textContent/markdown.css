@@ -1,0 +1,76 @@
+.markdown p {
+  color: #f7f7f7;
+  font-size: 1rem;
+  line-height: 1.75;
+  margin-bottom: 2em;
+}
+
+
+.markdown h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+}
+
+.markdown h2 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+}
+
+.markdown h3 {
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+}
+
+.markdown ul {
+  list-style-type: disc;
+  margin-left: 2rem; 
+}
+
+.markdown a {
+  color: darkslategray;
+  border-bottom: 1px solid darkslategray;
+  text-decoration: none;
+  padding-bottom: 2px;
+}
+
+.markdown a:hover {
+  color: blue;
+  border-bottom: 20, solid,black; 
+}
+
+.markdown pre {
+  background-color: #292929; /* Light gray background */
+  border: 1px solid #ddd; /* Subtle border */
+  border-radius: 5px; /* Rounded corners */
+  padding: 1rem; /* Padding inside the block */
+  overflow-x: auto; /* Horizontal scrolling for long lines */
+  font-family: 'Courier New', Courier, monospace; /* Monospace font */
+  font-size: 0.9rem; /* Slightly smaller font size */
+  line-height: 1.5; /* Better readability */
+  margin-bottom: 1.5rem; /* Space below the block */
+}
+
+.markdown code {
+  border-radius: 3px; /* Slightly rounded corners */
+  padding: 0.2rem 0.4rem; /* Padding around inline code */
+  font-family: 'Courier New', Courier, monospace; /* Monospace font */
+  font-size: 0.9rem; /* Match <pre> font size */
+}
+
+.markdown pre code {
+  color: #cccccc;
+}
+
+.markdown img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+  overflow-y: scroll;
+}

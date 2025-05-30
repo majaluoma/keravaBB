@@ -1,0 +1,1 @@
+Ensimmäinen uutinen on vielä tekeillä ensimmäisestä kierroksesta
