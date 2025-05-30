@@ -74,3 +74,55 @@
   margin: 1rem 0;
   overflow-y: scroll;
 }
+
+.markdown blockquote {
+  border-left: 4px solid #ccc; /* Left border */
+  padding-left: 1rem; /* Padding on the left */
+  color: #666; /* Text color */
+  margin: 1rem 0; /* Margin above and below */
+  font-style: italic; /* Italic text */
+}
+
+.markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  overflow-x: auto;
+  display: block;
+  max-width: 100%;
+}
+
+.markdown thead tr {
+  background-color: #1e293b; /* Example primary color, adjust as needed */
+  color: #fff;
+}
+
+.markdown th,
+.markdown td {
+  border: 1px solid #444;
+  padding: 0.2rem 0.75rem;
+  text-align: left;
+  font-size: 0.7rem;
+}
+
+.markdown tbody tr:nth-child(even) {
+  background-color: #f7f7f7; /* Light background for even rows */
+  color: #222;
+}
+
+.markdown tbody tr:nth-child(odd) {
+  background-color: #222; /* Slightly darker for odd rows */
+  color: #f7f7f7;
+}
+
+.markdown table {
+  overflow-x: auto;
+  display: block;
+  max-width: 100%;
+}
+
+/* Optional: make table horizontally scrollable on small screens */
+.markdown table {
+  width: max-content;
+  min-width: 100%;
+}

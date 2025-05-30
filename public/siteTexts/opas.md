@@ -16,11 +16,14 @@ Kirjoita vain tavallista tekstiä ja lisää **yksinkertaisia merkkejä** haluam
 
 ## 🏷️ Otsikot
 
-Lisää risuaita `#` rivin alkuun:
+Lisää yksi tai useampi risuaita `#` rivin alkuun:
+```md
+# Tämä on iso otsikko
+```
+Näyttää tältä:
 
 # Tämä on iso otsikko
-## Tämä on hieman pienempi otsikko
-### Tämä on vielä pienempi
+
 
 ## 🔤 Tekstin muotoilu
 

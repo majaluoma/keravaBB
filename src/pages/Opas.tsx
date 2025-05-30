@@ -3,8 +3,11 @@ import TextContent from '../features/textContent/TextContent';
 
 export default function Opas() {
   return (
-    <BlockView variant="card">
+    <BlockView variant="card" className='mx-10'>
+      <div className="max-w-screen p-1">
+
       <TextContent markdownFile={'/siteTexts/opas.md'}></TextContent>
+      </div>
     </BlockView>
   );
 }
