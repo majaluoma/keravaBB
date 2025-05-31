@@ -1,4 +1,4 @@
-# Keravan liekkipipot
+# Keravan juoksukaljat
 ![liekkipipot](/siteTexts/blogEntries/1/image.png)
 Keravan juoksukaljat ovat nousseet taas talvihorroksestaan ja mikään lähikauppa ei ole heiltä turvassa. Sairaan nopeet taktiikat ja humalainen agressio ovat olleet mahtava menestys. Kuitenkin Vantaan poliisilaitoksen kytät ovat hioneet taitojaan, mikä on johtanut pariin putkareissuun. Keravan juoksukaljat ovatkin ilmoittautuneet paikalliseen Blood Bowl liigaaan, ehkä sieltä opitut murjomis ja heittotaidot ratkaisisisvat tilanteen lopullisesti heidän edukseen?
 
