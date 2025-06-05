@@ -17,11 +17,12 @@ Liigatilanne 5.6.2025
 ### 1. kierros 
 Legendaarinen Kerava Cup 2025 on virallisesti käynnistynyt, ja ensimmäisen kierroksen parit on arvottu:
 
-
-Keravan juoksukaljat vs Keravan punaiset
-Rappion etukoukot vs Blackbears
-Rappion etukoukot vs Örkkimörkit
-Sompion ällöt vs Lehtisen verenimijät
+|                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka |
+|:---------------------------------------:|:------------:|:-----:|:--------------:|
+| Blackbears - Rappion Etujoukot          | Oona - Eve   | 3 - 0 | 3.5.2025       |
+| Rappion Etujoukot - Örkkimörkit         | Eve - Tony   | -     | -              |
+| Keravan Juoksukaljat - Keravan Punaiset | Olli - Julle | -     | -              |
+| Sompion Ällöt - Kurkelan Kulmahampaat   | Teo - Aleksi | -     | -              |
 
 Ensimmäisen kierroksen Ottelut on pelattava 3 viikon sisällä, eli juhannukseen mennessä. 
 
