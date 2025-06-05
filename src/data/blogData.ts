@@ -20,4 +20,11 @@ export const blogData = [
     date: new Date('2025-06-05'),
     labels: ['tiimit', 'Blackbears', ],
   },
+    {
+    id:4,
+    title: 'Joukkue-esittely: Kurkelan Kulmahampaat',
+    ingress: 'Kurkelan kulmahampaiden tiimikatsaus',
+    date: new Date('2025-06-05'),
+    labels: ['tiimit', 'Kurkelan Kulmahampaat', ],
+  },
 ];
