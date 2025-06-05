@@ -19,7 +19,7 @@ Legendaarinen Kerava Cup 2025 on virallisesti käynnistynyt, ja ensimmäisen kie
 
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka |
 |:---------------------------------------:|:------------:|:-----:|:--------------:|
-| Blackbears - Rappion Etujoukot          | Oona - Eve   | 3 - 0 | 3.5.2025       |
+| Blackbears - Rappion Etujoukot          | Oona - Eve   | 3 - 0 | 3.5.2025, Tyrmä       |
 | Rappion Etujoukot - Örkkimörkit         | Eve - Tony   | -     | -              |
 | Keravan Juoksukaljat - Keravan Punaiset | Olli - Julle | -     | -              |
 | Sompion Ällöt - Kurkelan Kulmahampaat   | Teo - Aleksi | -     | -              |
