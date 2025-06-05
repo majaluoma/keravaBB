@@ -11,9 +11,13 @@ type BlockProps = {
   single?: boolean;
   batch?: boolean;
 };
+const sortBlogsByTime = (a: (typeof blogData)[0], b: (typeof blogData)[0]) => {
+  return b.date.getTime() - a.date.getTime();
+};
+
 export default function Blog({ single, batch }: Readonly<BlockProps>) {
   const { id, year } = useParams();
-  const [blogPosts, setBlogPosts] = useState(blogData);
+  const [blogPosts, setBlogPosts] = useState(blogData.sort(sortBlogsByTime));
 
   useEffect(() => {
     if (single) {
@@ -28,26 +32,27 @@ export default function Blog({ single, batch }: Readonly<BlockProps>) {
         (blog) => blog.date.getFullYear().toString() === year,
       );
       if (post) {
-        setBlogPosts(post);
+        setBlogPosts(post.sort(sortBlogsByTime));
       }
     }
   }, [batch, single, id, year]);
-
 
   return (
     <>
       <div>
         <FadingBackground image={wallpaper1} />
-        <div className="text-card relative top-20 bg-primary rounded-2xl p-4">
-          <h1 className="font-headline text-6xl font-bold">
-            Urheilu uutiset
-          </h1>
+        <div className="text-card bg-primary relative top-20 rounded-2xl p-4">
+          <h1 className="font-headline text-6xl font-bold">Urheilu uutiset</h1>
           <p>Katso kuvat</p>
         </div>
       </div>
 
       <BlockView>
-        <BlogPosts blogposts={blogPosts} />
+        <BlogPosts
+          blogposts={blogPosts.sort((a, b) => {
+            return b.date.getTime() - a.date.getTime();
+          })}
+        />
       </BlockView>
       <BlockView>
         <h2 className="font-headline text-4xl font-bold">All posts</h2>
