@@ -11,6 +11,13 @@ export const blogData = [
     title: 'Blackbears vie ylivoimaisen voiton Kerava Cupin avausottelusta',
     ingress: 'Ensimmäisen ottelun tiivistelmä',
     date: new Date('2025-06-05'),
-    labels: ['ottelut', 'Blackbears', 'Rappion etujoukot'],
+    labels: ['ottelut', 'Blackbears', 'Rappion Etujoukot'],
+  },
+  {
+    id:3,
+    title: 'Joukkue-esittely: Blackbears',
+    ingress: 'Mustakarhujen tiimikatsaus',
+    date: new Date('2025-06-05'),
+    labels: ['tiimit', 'Blackbears', ],
   },
 ];
