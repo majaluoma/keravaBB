@@ -6,7 +6,7 @@ export default function Home() {
     <BlockView variant="card" className='mx-10'>
           <div className="max-w-screen p-1">
     
-          <TextContent markdownFile={'/siteTexts/home.md'}></TextContent>
+          <TextContent markdownFile={`/siteTexts/home.md?cb=${Date.now()}`}></TextContent>
           </div>
         </BlockView>
   );
