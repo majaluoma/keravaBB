@@ -1,5 +1,5 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille.
-Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkoetta.
+Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
 
 ### 1. kierros 
@@ -23,7 +23,7 @@ Jos 3 viikon aikana ei ehdo pelaa matsia, ei saa liigapisteitä ja peli vaa jä�
 
 Special players - saa käyttää, jos ostaa ja maalaa. Muutki saa käyttää muiden maalaamia mutta sillä joka on hankkinut figun  on etuajo-oikeus
 
-Palkinnot. 10e Liigajohtajalle kolehtina, jolla hankitaan palkinnot. Turnauksen voittaja. Eniten tappoja. Hienoin joukkoe. 
+Palkinnot. 10e Liigajohtajalle kolehtina, jolla hankitaan palkinnot. Turnauksen voittaja. Eniten tappoja. Hienoin joukkue. 
 
 Eeppisin pelaajahahmo saa myös palkinnon. Promoottori tekee figulle mitalin.
 
