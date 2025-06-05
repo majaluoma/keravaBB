@@ -11,6 +11,10 @@
 
 Rappion Etujoukkojen hyökkäysvuoro lähtee erinomaisesti käyntiin. Pallo pysyy näpeissä ja liikkuu keskiviivan yli. Puolustus on kuitenkin hurjaa ja pallosta kamppailu kiivasta. Mustakarhujen pelaajien hanskat lienevät öljytyt, niin paljon on hankaluuksia pallon nostamisessa maasta. Kun Mustakarhut vihdoin saavat pallon ja yrittävät syöttöä, Rappiolaisten pelaaja onnistuu nappaamaan sen lennosta takaisin haltuunsa kuin maahinen kultakimpaleen. Peli on äärimmäisen tasaista.
 
+![alt text](/siteTexts/blogEntries/2/image.jpeg)
+
 Yleisö kohahtaa, kun yksi Mustakarhujen hyökkääjistä lyödään kamppailutilanteessa elottomaksi. Pelaaja on jo ehditty julistaa kuolleeksi kentän laidalla, kun yllättäen joukkueen apoteekkari juoksee myöhässä paikalle ja onnistuu saamaan pelaajaan taas eloa. Ensimmäinen puoliaika päättyy dramaattisesti, kun juuri ennen pillin vihellystä Mustakarhut saavat vihdoin pallon hallintaansa ja kiidättävät sen maaliviivan yli.
+
+![alt text](/siteTexts/blogEntries/2/image-1.jpeg)
 
 Toisella puoliajalla Mustakarhujen hyvä pallovire jatkuu, ja maaleja kertyy kaksi lisää. Rappion Etujoukot kuitenkin iskevät verenmaku suussa, ja murjovat yhden linjamiehen sellaiseen kuntoon, että seuraava peli jää välistä. Juuri ennen ottelun päättymistä Rappiolaisten catcher yrittää vielä rokottaa vastustajaa viimeisellä epätoivoisella iskulla, joka ironisesti jäi tosiaankin viimeiseksi. Ottelu päättyy 3–0 samalla, kun catcherin ruumista kannetaan pois kentältä.

@@ -126,3 +126,11 @@
   width: max-content;
   min-width: 100%;
 }
+
+.img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+  max-height: 500px;
+}
