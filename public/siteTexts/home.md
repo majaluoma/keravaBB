@@ -5,8 +5,8 @@ Liigatilanne 5.6.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit | Kärsityt uhrit |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
-| 1. Blackbears            | Oona       | 4            | 1      | 0      | 0         | 3             | 0               | 1              | 1              |
-| 2. Rappion Etujoukot     | Eve        | 0            | 0      | 1      | 0         | 0             | 3               | 1              | 1              |
+| 1. Blackbears            | Oona       | 4            | 1      | 0      | 0         | 3             | 0               | 1              | 2              |
+| 2. Rappion Etujoukot     | Eve        | 0            | 0      | 1      | 0         | 0             | 3               | 2              | 1              |
 | 3. Keravan Juoksukaljat  | Olli       | 0            | 0      | 0      | 0         | 0             | 0               | 0              | 0              |
 | 4. Kurkelan Kulmahampaat | Aleksi     | 0            | 0      | 0      | 0         | 0             | 0               | 0              | 0              |
 | 5. Sompion Ällöt         | Teo        | 0            | 0      | 0      | 0         | 0             | 0               | 0              | 0              |
