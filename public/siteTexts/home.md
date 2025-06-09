@@ -20,9 +20,9 @@ Legendaarinen Kerava Cup 2025 on virallisesti käynnistynyt, ja ensimmäisen kie
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka |
 |:---------------------------------------:|:------------:|:-----:|:--------------:|
 | Blackbears - Rappion Etujoukot          | Oona - Eve   | 3 - 0 | 3.6.2025, Tyrmä|
-| Rappion Etujoukot - Örkkimörkit         | Eve - Tony   | -     | -              |
+| Rappion Etujoukot - Örkkimörkit         | Eve - Tony   | -     |12.6.2025, Tyrmä|
 | Keravan Juoksukaljat - Keravan Punaiset | Olli - Julle | -     |10.6.2025, Tyrmä|
-| Sompion Ällöt - Kurkelan Kulmahampaat   | Teo - Aleksi | -     | -              |
+| Sompion Ällöt - Kurkelan Kulmahampaat   | Teo - Aleksi | -     |11.6.2025, Tyrmä|
 
 Ensimmäisen kierroksen Ottelut on pelattava 3 viikon sisällä, eli juhannukseen mennessä. 
 
@@ -32,7 +32,7 @@ Tuloksia ja pelitapahtumia, kuvia fiiliksiä yms. On suositeltavaa postata myös
 
 ### Sovittuja sääntöjä
 
-Jos 3 viikon aikana ei ehdo pelaa matsia, ei saa liigapisteitä ja peli vaa jää pelaamatta. Voi yrittää vaihtaa maychuppia tarvittaessa jos menee hankalaks.
+Jos 3 viikon aikana ei ehdi pelaa matsia, ei saa liigapisteitä ja peli vaa jää pelaamatta. Voi yrittää vaihtaa matchuppia tarvittaessa jos menee hankalaks.
 
 Special players - saa käyttää, jos ostaa ja maalaa. Muutki saa käyttää muiden maalaamia mutta sillä joka on hankkinut figun  on etuajo-oikeus
 
