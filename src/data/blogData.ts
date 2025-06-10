@@ -27,4 +27,11 @@ export const blogData = [
     date: new Date('2025-06-05'),
     labels: ['tiimit', 'Kurkelan Kulmahampaat', ],
   },
+    {
+    id:5,
+    title: 'Joukkue-esittely: Keravan Punaiset',
+    ingress: 'Keravan Punaisten tiimikatsaus',
+    date: new Date('2025-06-10'),
+    labels: ['tiimit', 'Keravan Punaiset', ],
+  },
 ];
