@@ -2,21 +2,21 @@
 ![liekkipipot](/siteTexts/blogEntries/1/image.png)
 Keravan juoksukaljat ovat nousseet taas talvihorroksestaan ja mikään lähikauppa ei ole heiltä turvassa. Sairaan nopeet taktiikat ja humalainen agressio ovat olleet mahtava menestys. Kuitenkin Vantaan poliisilaitoksen kytät ovat hioneet taitojaan, mikä on johtanut pariin putkareissuun. Keravan juoksukaljat ovatkin ilmoittautuneet paikalliseen Blood Bowl liigaaan, ehkä sieltä opitut murjomis ja heittotaidot ratkaisisisvat tilanteen lopullisesti heidän edukseen?
 
-Total value: 980 000  Treasury: 20 000
+Total value: 1 000 000  Treasury: 55 000
 |#|Name|Position|MA|ST|AG|PA|AV|Skills|Hiring Fee|SPP|MNG|NI|TR|Current Value|
 |-|----|--------|--|--|--|--|--|------|----------|---|---|--|--|-------------|
 |1||Bull     |6|4|4+|6+|10+|Sprint, Sure Feet, Thick Skull            |130,000   |  |  | | |130,000      |
-|2||Bull     |6|4|4+|6+|10+|Sprint, Sure Feet, Thick Skull            |130,000   |  |  | | |130,000      |
-|3||Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull        |70,000    |  |  | | |70,000       |
-|4||Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull        |70,000    |  |  | | |70,000       |
-|5||Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull        |70,000    |  |  | | |70,000       |
+|2||Bull     |6|4|4+|6+|10+|Sprint, Sure Feet, Thick Skull            |130,000   |  | x | | |130,000      |
+|3|Siili|Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull        |70,000    | 2 |  | | |70,000       |
+|4|Mauri Rautakoura|Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull        |70,000    | 4 |  | | |70,000       |
+|5||Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull        |70,000    | 2 |  | | |70,000       |
 |6||Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull        |70,000    |  |  | | |70,000       |
-|7||Stabba   |6|3|3+|5+|8+|Shadowing, Stab                           |70,000    |  |  | | |70,000       |
-|8||Stabba   |6|3|3+|5+|8+|Shadowing, Stab                           |70,000    |  |  | | |70,000       |
-|9||Hobgoblin|6|3|3+|4+|8+|                                          |40,000    |  |  | | |40,000       |
-|10||Hobgoblin|6|3|3+|4+|8+|                                          |40,000    |  |  | | |40,000       |
-|11||Hobgoblin|6|3|3+|4+|8+|                                          |40,000    |  |  | | |40,000       |
+|7|Junkkarinen|Stabba   |6|3|3+|5+|8+|Shadowing, Stab                           |70,000    | | x | | |70,000       |
+|8||Stabba   |6|3|3+|5+|8+|Shadowing, Stab                           |70,000    | 2 |  | | |70,000       |
+|11|Syyhky|Hobgoblin|6|3|3+|4+|8+| Sure hands                                         |60,000    | 1 |  | | |40,000       |
 |12||Hobgoblin|6|3|3+|4+|8+|                                          |40,000    |  |  | | |40,000       |
+|13||Hobgoblin|6|3|3+|4+|8+|                                          |40,000    |  |  | | |40,000       |
+|14||Hobgoblin|6|3|3+|4+|8+|                                          |40,000    |  |  | | |40,000       |
 
 - Rerolls 	2 / 8 	70,000 	
 - Assistant Coaches 	0 / 6 	10,000 	
@@ -24,7 +24,14 @@ Total value: 980 000  Treasury: 20 000
 - Dedicated Fans 	1 / 6 	10,000 	
 - Apothecary 	0 / 1 	50,000 	
 
-
+Hobgoblin primary  Block, Dauntless, Dirty Player, (+1) Fend, Frenzy, Kick, Pro, Shadowing, Strip Ball, Sure Hands, Tackle, Wrestle
+Hobgoblin secondary Catch, Diving Catch, Diving Tackle, Dodge, Defensive, Jump Up, Leap, Safe Pair Of Hands, Sidestep, Sneaky Git, Sprint, Sure Feet
+Stabba primary Block, Dauntless,Dirty Player (+1), Fend, Frenzy, Kick, Pro, Strip Ball, Sure Hands, Tackle, Wrestle
+Stabba secondary Catch, Diving Catch, Diving Tackle, Dodge, Defensive, Jump Up, Leap, Safe Pair Of Hands, Sidestep, Sneaky Git, Sprint, Sure Feet
+Dwarf primary Dauntless, Dirty Player (+1), Fend, Frenzy, Kick, Pro, Shadowing, Strip Ball, Sure Hands, Tackle, Wrestle
+Dwarf secondary Catch, Diving Catch, Diving Tackle, Dodge, Defensive, Jump Up, Leap, Safe Pair Of Hands, Sidestep, Sneaky Git
+Bull primary Block, Dauntless, Dirty Player (+1), Fend, Frenzy, Kick, Pro, Shadowing, Strip Ball, Sure Hands, Tackle, Wrestle
+Bull secondary Catch, Diving Catch, Diving Tackle, Dodge, Defensive, Jump Up, Leap, Safe Pair Of Hands, Sidestep, Sneaky Git
 ## Valmentaja 
 ![liekkipipojen valmentaja](/siteTexts/blogEntries/1/image-1.png)
 Nopeasta valmentajasta ei ole saatu koskaan kokonaista kuvaa
