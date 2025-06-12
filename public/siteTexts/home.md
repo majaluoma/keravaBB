@@ -7,10 +7,10 @@ Liigatilanne 5.6.2025
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
 | 1. Blackbears            | Oona       | 4            | 1      | 0      | 0         | 3             | 0               | 1              | 2              |
 | 2. Keravan Punaiset      | Julle      | 4            | 1      | 0      | 0         | 2             | 1               | 3              | 4              |
-| 3. Keravan Juoksukaljat  | Olli       | 0            | 0      | 1      | 0         | 1             | 2               | 4              | 3              |
-| 4. Rappion Etujoukot     | Eve        | 0            | 0      | 1      | 0         | 0             | 3               | 2              | 1              |
-| 5. Kurkelan Kulmahampaat | Aleksi     | 0            | 0      | 0      | 0         | 0             | 0               | 0              | 0              |
-| 6. Sompion Ällöt         | Teo        | 0            | 0      | 0      | 0         | 0             | 0               | 0              | 0              |
+| 3. Kurkelan Kulmahampaat | Aleksi     | 4            | 1      | 0      | 0         | 1             | 0               | 3              | 0              |
+| 4. Keravan Juoksukaljat  | Olli       | 0            | 0      | 1      | 0         | 1             | 2               | 4              | 3              |
+| 5. Rappion Etujoukot     | Eve        | 0            | 0      | 1      | 0         | 0             | 3               | 2              | 1              |
+| 6. Sompion Ällöt         | Teo        | 0            | 0      | 1      | 0         | 0             | 0               | 0              | 3              |
 | 7. Örkkimörkit           | Tony       | 0            | 0      | 0      | 0         | 0             | 0               | 0              | 0              |
 
 
@@ -22,7 +22,7 @@ Legendaarinen Kerava Cup 2025 on virallisesti käynnistynyt, ja ensimmäisen kie
 | Blackbears - Rappion Etujoukot          | Oona - Eve   | 3 - 0 | 3.6.2025, Tyrmä|
 | Rappion Etujoukot - Örkkimörkit         | Eve - Tony   | -     |12.6.2025, Tyrmä|
 | Keravan Juoksukaljat - Keravan Punaiset | Olli - Julle | 1 - 2 |10.6.2025, Tyrmä|
-| Sompion Ällöt - Kurkelan Kulmahampaat   | Teo - Aleksi | -     |11.6.2025, Tyrmä|
+| Sompion Ällöt - Kurkelan Kulmahampaat   | Teo - Aleksi | 0 - 1   |11.6.2025, Tyrmä|
 
 Ensimmäisen kierroksen Ottelut on pelattava 3 viikon sisällä, eli juhannukseen mennessä. 
 
