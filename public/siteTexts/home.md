@@ -8,7 +8,7 @@ Liigatilanne 12.6.2025
 | 1. Blackbears            | Oona       | 4            | 1      | 0      | 0         | 3             | 0               | 1              | 2              |
 | 2. Keravan Punaiset      | Julle      | 4            | 1      | 0      | 0         | 2             | 1               | 3              | 4              |
 | 3. Kurkelan Kulmahampaat | Aleksi     | 4            | 1      | 0      | 0         | 1             | 0               | 3              | 0              |
-| 4. Keravan Juoksukaljat  | Olli       | 0            | 0      | 1      | 0         | 1             | 2               | 4              | 3              |
+| 4. Keravan Juoksukaljat  | Olli       | 1            | 0      | 1      | 0         | 1             | 2               | 4              | 3              |
 | 5. Rappion Etujoukot     | Eve        | 0            | 0      | 1      | 0         | 0             | 3               | 2              | 1              |
 | 6. Sompion Ällöt         | Teo        | 0            | 0      | 1      | 0         | 0             | 1               | 1              | 3              |
 | 7. Örkkimörkit           | Tony       | 0            | 0      | 0      | 0         | 0             | 0               | 0              | 0              |
