@@ -1,7 +1,7 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille.
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
-Liigatilanne 5.6.2025
+Liigatilanne 12.6.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit | Kärsityt uhrit |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
@@ -10,7 +10,7 @@ Liigatilanne 5.6.2025
 | 3. Kurkelan Kulmahampaat | Aleksi     | 4            | 1      | 0      | 0         | 1             | 0               | 3              | 0              |
 | 4. Keravan Juoksukaljat  | Olli       | 0            | 0      | 1      | 0         | 1             | 2               | 4              | 3              |
 | 5. Rappion Etujoukot     | Eve        | 0            | 0      | 1      | 0         | 0             | 3               | 2              | 1              |
-| 6. Sompion Ällöt         | Teo        | 0            | 0      | 1      | 0         | 0             | 1               | 0              | 3              |
+| 6. Sompion Ällöt         | Teo        | 0            | 0      | 1      | 0         | 0             | 1               | 1              | 3              |
 | 7. Örkkimörkit           | Tony       | 0            | 0      | 0      | 0         | 0             | 0               | 0              | 0              |
 
 
