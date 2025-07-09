@@ -10,7 +10,7 @@ Liigatilanne 9.7.2025
 | 3. Keravan Punaiset      | Julle      | 4            | 1      | 1      | 0         | 3             | 4               | 4              | 5              |
 | 4. Keravan Juoksukaljat  | Olli       | 3            | 1      | 1      | 0         | 3             | 3               | 6              | 4              |
 | 5. Ahjon Kahjot           | Tony       | 3            | 0      | 0      | 2         | 3             | 2               | 6              | 2              |
-| 6. Rappion Etujoukot     | Eve        | 1            | 0      | 1      | 1         | 1             | 3               | 3              | 2              |
+| 6. Rappion Etujoukot     | Eve        | 2            | 0      | 1      | 1         | 1             | 3               | 3              | 2              |
 | 7. Sompion Sopulit         | Teo        | 0            | 0      | 2      | 0         | 1             | 1               | 2              | 5              |
 
 
