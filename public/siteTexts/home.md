@@ -9,8 +9,8 @@ Liigatilanne 9.7.2025
 | 2. Blackbears            | Oona       | 5            | 1      | 0      | 1         | 5             | 2               | 2              | 8              |
 | 3. Keravan Punaiset      | Julle      | 4            | 1      | 1      | 0         | 3             | 4               | 4              | 5              |
 | 4. Keravan Juoksukaljat  | Olli       | 3            | 1      | 1      | 0         | 3             | 3               | 6              | 4              |
-| 5. Ahjon Kahjot           | Tony       | 2            | 0      | 0      | 1         | 3             | 2               | 6              | 2              |
-| 6. Rappion Etujoukot     | Eve        | 1            | 0      | 1      | 0         | 1             | 3               | 3              | 2              |
+| 5. Ahjon Kahjot           | Tony       | 3            | 0      | 0      | 2         | 3             | 2               | 6              | 2              |
+| 6. Rappion Etujoukot     | Eve        | 1            | 0      | 1      | 1         | 1             | 3               | 3              | 2              |
 | 7. Sompion Sopulit         | Teo        | 0            | 0      | 2      | 0         | 1             | 1               | 2              | 5              |
 
 
@@ -34,7 +34,7 @@ Legendaarinen Kerava Cup 2025 on virallisesti käynnistynyt, ja ensimmäisen kie
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka |
 |:---------------------------------------:|:------------:|:-----:|:--------------:|
 | Blackbears - Rappion Etujoukot          | Oona - Eve   | 3 - 0 | 3.6.2025, Tyrmä|
-| Rappion Etujoukot - Örkkimörkit         | Eve - Tony   | -     |12.6.2025, Tyrmä|
+| Rappion Etujoukot - Örkkimörkit         | Eve - Tony   | 1 - 1    |12.6.2025, Tyrmä|
 | Keravan Juoksukaljat - Keravan Punaiset | Olli - Julle | 1 - 2 |10.6.2025, Tyrmä|
 | Sompion Ällöt - Kurkelan Kulmahampaat   | Teo - Aleksi | 0 - 1 |11.6.2025, Tyrmä|
 
