@@ -33,9 +33,8 @@ Joukkueen motto:
 | 10 | "Rimpula"                 | Skaven Lineman | 7  | 3  | 3+ | 4+ | 8+ |                  | 50,000    | 0   |     | 0  | 0  | 50,000        |
 | 11 | "Röykkiö"                 | Skaven Lineman | 7  | 3  | 3+ | 4+ | 8+ |                  | 50,000    | 4   |     | 0  | 0  | 50,000        |
 
-Coach Name	
-Teo
-Team Value	965,000
-Current TV	880,000
-Treasury	65,000
-Rerolls	3 / 8
+- Coach Name	Teo  
+- Team Value	965,000  
+- Current TV	880,000  
+- Treasury	    65,000  
+- Rerolls	    3 / 8  

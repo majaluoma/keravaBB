@@ -8,15 +8,15 @@ Toisen kierroksen suurimpiin kärsijöihin kuuluivat Blackbears, jonka riveistä
 ![alt text](/siteTexts/blogEntries/8/image.jpeg)
 Blackbearsin pelaajia sairastuvalla
 
-Keravan Juoksukaljojen ja Sompion Sopuleiden välinen ottelu ratkesi kymmeneen tyrmäykseen – ei maaleihin. Ratkaisu saatiin viimeisellä minuutilla, kun Juoksukaljat vei johdon 2–1. Samalla kentän toisessa päässä Sompion Sopuleiden viimeistä pelikuntoista pelaajaa potkittiin runsaalla osanottajajoukolla. Yllättäen kukaan ei menehtynyt ottelun aikana. Alustavien tietojen mukaan ottelua seurasi paikan päällä ja verkossa yhteensä 16 000 katsojaa. Nopeasti kuitenkin selvisi, että heistä 10 000 oli Venäjältä ostettuja botteja. Sompion Sopuleiden kapteeni epäilee kilpailijaa sabotoinnista:
+Keravan Juoksukaljojen ja Sompion Sopuleiden välinen ottelu ratkesi kymmeneen tyrmäykseen – ei taitavaan pallonkäsittelyyn. Ratkaisu saatiin viimeisellä minuutilla, kun Juoksukaljat vei johdon 2–1. Samalla kentän toisessa päässä Sompion Sopuleiden viimeistä pelikuntoista pelaajaa potkittiin runsaalla osanottajajoukolla. Yllättäen kukaan ei menehtynyt ottelun aikana. Alustavien tietojen mukaan ottelua seurasi paikan päällä ja verkossa yhteensä 16 000 katsojaa. Nopeasti kuitenkin selvisi, että heistä 10 000 oli Venäjältä ostettuja botteja. Sompion Sopuleiden kapteeni epäilee kilpailijaa sabotoinnista:
 "Nämä syytökset kuulostavat perättömiltä. Tämä on selvästi Kurkelan Kulmahampaiden lobbaussysteemi."
 
 ![alt text](/siteTexts/blogEntries/8/image-2.jpeg)
 
 Kurkelan Kulmahampaiden kapteenia yritettiin tavoittaa kommentoimaan tapausta, mutta yhteydenottoyritykset jäivät tuloksettomiksi. Hiljaisuus on herättänyt epäilyjä joukkueen osallisuudesta. Kulmahampaat ovat voittaneet kaikki ottelunsa ja saivat kolmannelle kierrokselle vastaansa pahasti kärsineet Blackbearsit – sattuma vai merkki järjestäjien suosimisesta? Tällä kierroksella he kohtasivat Keravan Punaiset, ja kentältä kantautuvien tietojen mukaan peli oli kaikkea muuta kuin helppo Punaisille. Ottelu päättyi lukemiin 3–1, vaikka Nipa-possu esitti upean tyrmäävän taklauksen. Kurkelan vampyyrit olivat ottaneet opikseen edellisestä kierroksesta – Vampyyri Volmariina teki tällä kertaa maalinsa ilman ylimääräistä leveilyä maaliviivalla.
 
-Kirjoitushetkellä kierroksen viimeinen peli on edelleen kesken. Rappion Etujoukkojen ja Keravan Punaisten ottelu on jatkunut jo kolmatta päivää. Vaikka tuomari on viheltänyt pelin jo poikki, Rappion Etujoukot eivät suostu lopettamaan, vaan jatkavat hyökkäystään vastustajia kohtaan.
-![alt text](/siteTexts/blogEntries/8/image-2.jpeg)
+Kirjoitushetkellä kierroksen viimeinen peli on edelleen kesken. Rappion Etujoukkojen ja Keravan Punaisten ottelu on jatkunut jo kolmatta päivää. Vaikka tuomari on viheltänyt pelin jo poikki, Rappion Etujoukot eivät suostu lopettamaan, vaan jatkavat hyökkäystään vastustajia kohtaan. Joukkoe on myös yrittänyt pienentää hoitokulujaan erottamalla lääkärinsä koeajalla. Uudenmaan käräjät kuitenkin totesi irtisanomisen laittomaksi ja Rappion etujoukot joutuvat palkkaamaan lääkärin uudestaan joukkooeeseensa.
+![alt text](/siteTexts/blogEntries/8/image-3.jpeg)
 Pelin alussa Rappion etujoukkojen pelaaja teki maalin tehtyään seitsemän onnistunutta väistöliikettä. 
 
 PS. Kurkelan Kulmahampaiden kapteeni tavoitettiin lopulta sunnuntaina klo 15.13. Hän kiistää jyrkästi kaikki lahjontasyytökset:
