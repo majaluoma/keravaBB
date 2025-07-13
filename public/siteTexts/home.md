@@ -21,7 +21,7 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 |:---------------------------------------:|:------------:|:-----:|:--------------:|
 | Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   |  -  | -|
 | Keravan Juoksukaljat - Rappion Etujoukot         | Olli - Eve   |  -      |-|
-| Sompion Sopulit - Keravan Punaiset | Teo - Julle |  -  |13.7, Tyrmä|
+| Sompion Sopulit - Keravan Punaiset | Teo - Julle |  -  |-|
 | Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  -    |-|
 
 
