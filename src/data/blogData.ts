@@ -39,6 +39,20 @@ export const blogData = [
     title: '"Tämä on katastrofi" - Peijaksen ensiavun osastolääkäri kommentoi alkanutta Kerava Cupin liigaa',
     ingress: 'Ensimmäisen kierroksen katsaus',
     date: new Date('2025-06-13'),
-    labels: ['ottelut', 'keravan punaiset', 'keravan juoksukaljat', 'rappion etujoukot', 'kurkelan kulmahampaat', 'örkkimörkit', 'sompion sopulit'],
+    labels: ['ottelut', 'kierroksen katsaus'],
+  },
+    {
+    id:7,
+    title: 'Joukkue-esittely: Sompion sopulit',
+    ingress: 'Joukkue-esittely: Sompion sopulit',
+    date: new Date('2025-07-12'),
+    labels: ['tiimit', 'sompion sopulit'],
+  },
+  {
+    id:8,
+    title: 'Lahjontaa ja venäläisiä bottifaneja – Keravan Blood Bowl -liigassa tapahtuu kummia',
+    ingress: 'Toisen kierroksen katsaus',
+    date: new Date('2025-07-13'),
+    labels: ['ottelut', 'kierroksen katsaus'],
   },
 ];
