@@ -20,7 +20,7 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 | 9  | Riitta Radler     | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     | 5   |     |    |    | 50,000        |
 | 11 | Iina Ipa          | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick          | 50,000     |     |     |    |    | 70,000        |
 | 12  | Nipa              | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |     |    |    | 20,000        |
-| 16 | Mörkö          | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1)          | 140,000     |     |     |    |    | 140,000        |
+| 16 | Mörkö          | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1)          | 160,000     |     |     |    |    | 140,000        |
 
 - Treasury: 10,000
 - Dedicated Fans: 2/6
