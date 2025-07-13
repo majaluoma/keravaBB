@@ -10,10 +10,10 @@ Koffin tölkki – pyhä metalliastia, joka sisältää taivaallista ruskeaa juo
 Kauan he ovat kuiskutelleet legendoja Kerava Cupista, ihmismaailman verisestä rituaalista, jossa sankarit ratkaisevat valtansa pelissä nimeltä Blood Bowl. He uskovat, että jos he voittavat tämän turnauksen, ihmiset lakkaavat heittämästä pesuaineita viemäriin – ja alkavat sen sijaan palvoa heitä kuin muinaisia jumalia.
 
 Sopuleiden Suunnitelma™:
-Rakentaa itsestään “inhimillinen urheilujoukkue” → Ei helppoa.
-Osallistua turnaukseen → Vielä vaikeampaa.
-Voittaa Kerava Cup → Hah.
-Julistaa itsensä Keravan herraksi → Tai ainakin S-Market Kytömaan.
+- Rakentaa itsestään “inhimillinen urheilujoukkue” → Ei helppoa.
+- Osallistua turnaukseen → Vielä vaikeampaa.
+- Voittaa Kerava Cup → Hah.
+- Julistaa itsensä Keravan herraksi → Tai ainakin S-Market Kytömaan.
 
 Joukkueen motto:
 “Räks. Rits. Rouskis.”
