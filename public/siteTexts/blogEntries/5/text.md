@@ -9,19 +9,20 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 
 | #  | Nimi              | Positio    | MA | ST | AG | PA | AV | Skills                                      | Hiring Fee | SPP | MNG | NI | TR | Current Value |
 |----|-------------------|------------|----|----|----|----|----|---------------------------------------------|------------|-----|-----|----|----|---------------|
-| 1  | Sonja Surma       | Valkyyri   | 7  | 3  | 3+ | 3+ | 8+ | Catch, Pass, Dauntless, Strip Ball          | 95,000     | 2   | X    |  X  |    | 95,000        |
+| 1  | Sonja Surma       | Valkyyri   | 7  | 3  | 3+ | 3+ | 8+ | Catch, Pass, Dauntless, Strip Ball          | 95,000     | 2   |     |  X  |    | 95,000        |
 | 2  | Kimmo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy                                      | 105,000    |     |    | X  |    | 105,000       |
-| 3  | Seppo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block                                      | 125,000    | 3   |     |    |    | 105,000       |
-| 4  | Nipa              | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |     |    |    | 20,000        |
-| 5  | Raimo Vaahtoparta | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |    | X  |    | 50,000        |
-| 6  | Asko Vehnämies    | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |    |    | 50,000        |
-| 7  | Antero Sakkanen   | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |    |    | 50,000        |
+| 3  | Seppo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block                                      | 105,000    | 6   |     |    |    | 125,000       |
+| 4  | Bärs Erkki              | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up | 90,000     |     |     |    |    | 90,000        |
+| 5  | Raimo Vaahtoparta | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     | 5    |    | X  |    | 50,000        |
+| 6  | Asko Vehnämies    | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     | 4    |     |    |    | 50,000        |
+| 7  | Antero Sakkanen   | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |  X   |  X  |    | 50,000        |
 | 8  | Edgar Stout       | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |    |    | 50,000        |
 | 9  | Riitta Radler     | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     | 5   |     |    |    | 50,000        |
 | 11 | Iina Ipa          | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick          | 50,000     |     |     |    |    | 70,000        |
-| 16 | Mörkö          | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury          | 140,000     | 2    |     |    |    | 140,000        |
+| 12  | Nipa              | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |     |    |    | 20,000        |
+| 16 | Mörkö          | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury          | 140,000     | 6    |     |    |    | 140,000        |
 
-- Treasury: 50,000
+- Treasury: 10,000
 - Dedicated Fans: 2/6
 - Total Touchdowns: 3
 - Total Casualties: 4
