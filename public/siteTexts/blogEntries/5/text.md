@@ -23,7 +23,7 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 | 16 | Mörkö          | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1)          | 140,000     |     |     |    |    | 160,000        |
 
 - Treasury: 10,000
-- Dedicated Fans: 2/6
+- Dedicated Fans: 3/6
 - Total Touchdowns: 3
 - Total Casualties: 4
 - League Points: 4
