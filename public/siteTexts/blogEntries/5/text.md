@@ -12,7 +12,7 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 | 1  | Sonja Surma       | Valkyyri   | 7  | 3  | 3+ | 3+ | 8+ | Catch, Pass, Dauntless, Strip Ball          | 95,000     | 2   |     |  X  |    | 95,000        |
 | 2  | Kimmo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy                                      | 105,000    |     |    | X  |    | 105,000       |
 | 3  | Seppo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block, Pile driver                                      | 105,000    | 2   |     |    |    | 135,000       |
-| 4  | Bärs Erkki              | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up | 90,000     |     |     |    |    | 90,000        |
+| 4  | Erkki Bärs              | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up | 90,000     |     |     |    |    | 90,000        |
 | 5  | Raimo Vaahtoparta | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick                | 50,000     | 1    |    | X  |    | 60,000        |
 | 6  | Asko Vehnämies    | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Frenzy                | 50,000     |     |     |    |    | 60,000        |
 | 7  | Antero Sakkanen   | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |  X   |  X  |    | 50,000        |
