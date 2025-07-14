@@ -8,21 +8,21 @@ Liigatilanne 13.7.2025
 | 1. Keravan Punaiset      | Julle      | 8            | 2      | 1      | 0         | 5             | 5               | 7              | 6              |
 | 2. Kurkelan Kulmahampaat | Aleksi     | 8            | 2      | 0      | 0         | 4             | 1               | 4              | 2              |
 | 3. Blackbears            | Oona       | 5            | 1      | 0      | 1         | 5             | 2               | 2              | 8              |
-| 4. Keravan Juoksukaljat  | Olli       | 3            | 1      | 1      | 0         | 3             | 3               | 6              | 4              |
+| 4. Keravan Juoksukaljat  | Olli       | 4            | 1      | 1      | 0         | 3             | 3               | 6              | 4              |
 | 5. Ahjon Kahjot           | Tony       | 3            | 0      | 0      | 2         | 3             | 2               | 6              | 2              |
 | 6. Rappion Etujoukot     | Eve        | 2            | 0      | 2      | 1         | 2             | 5               | 4              | 5              |
 | 7. Sompion Sopulit         | Teo        | 0            | 0      | 2      | 0         | 1             | 1               | 2              | 5              |
 
 ### 3. kierros
-Toinen kierros on käynnistynyt. Otteluparit on arvottu.
+Kolmas kierros on käynnistynyt. Otteluparit on arvottu.
 Pelit tulee olla pelattu 3.8.2025 mennessä.
 
-|                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka |
-|:---------------------------------------:|:------------:|:-----:|:--------------:|
-| Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   |  -  | -|
-| Keravan Juoksukaljat - Rappion Etujoukot         | Olli - Eve   |  -      |-|
-| Sompion Sopulit - Keravan Punaiset | Teo - Julle |  -  |-|
-| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  -    |-|
+|                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
+|:---------------------------------------:|:------------:|:-----:|:--------------:|:--------------:|
+| Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   |  -  | -| -|
+| Keravan Juoksukaljat - Rappion Etujoukot         | Olli - Eve   |  -      |-|-|
+| Sompion Sopulit - Keravan Punaiset | Teo - Julle |  -  |-|-|
+| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  -    |-|-|
 
 
 
