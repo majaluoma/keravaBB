@@ -12,7 +12,7 @@ Total value: 1 070 000  Treasury: 60 000
 |5||Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull                   |70,000    | 2 |  | | |70,000|
 |6||Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull                   |70,000    | 4 |  | | |70,000|
 |7|Junkkarinen|Stabba   |6|3|3+|5+|8+|Shadowing, Stab                            |70,000    | |  | | |70,000|
-|8||Stabba   |6|3|3+|5+|8+|Shadowing, Stab                                       |70,000    | 2 |  | | |70,000|
+|8||Stabba   |6|3|3+|5+|8+|Shadowing, Stab                                       |70,000    |  |  | | |70,000|
 |11|Syyhky|Hobgoblin|6|3|3+|4+|8+| Sure hands                                    |40,000    | 1 | x | | |60,000|
 |12||Hobgoblin|6|3|3+|4+|8+|                                                     |40,000    |  |  | | |40,000|
 |13||Hobgoblin|6|3|3+|4+|8+|                                                     |40,000    | 3 |  | | |40,000|
