@@ -11,7 +11,7 @@ Liigatilanne 15.7.2025
 | 4. Keravan Juoksukaljat  | Olli       | 4            | 1      | 1      | 0         | 3             | 3               | 6              | 4              |
 | 5. Ahjon Kahjot           | Tony       | 3            | 0      | 0      | 2         | 3             | 2               | 6              | 2              |
 | 6. Rappion Etujoukot     | Eve        | 2            | 0      | 2      | 1         | 2             | 5               | 4              | 5              |
-| 7. Sompion Sopulit         | Teo        | 0            | 0      | 2      | 0         | 1             | 1               | 2              | 5              |
+| 7. Sompion Sopulit         | Teo        | 0            | 0      | 3      | 0         | 1             | 4               | 2              |9              |
 
 ### 3. kierros
 Kolmas kierros on käynnistynyt. Otteluparit on arvottu.
