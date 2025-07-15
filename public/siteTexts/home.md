@@ -20,7 +20,7 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |:---------------------------------------:|:------------:|:-----:|:--------------:|:--------------:|
 | Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   |  -  | -| -|
-| Keravan Juoksukaljat - Rappion Etujoukot         | Olli - Eve   |  -      |-|-|
+| Sompion Sopulit - Rappion Etujoukot         | Olli - Eve   |  -      |-|-|
 | Sompion Sopulit - Keravan Punaiset | Teo - Julle | 0 - 1 |15.7, Tyrmä|0 - 4|
 | Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  -    |-|-|
 
