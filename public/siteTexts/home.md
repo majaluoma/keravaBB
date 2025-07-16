@@ -1,13 +1,13 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille.
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
-Liigatilanne 15.7.2025
+Liigatilanne 17.7.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit | Kärsityt uhrit |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
 | 1. Keravan Punaiset      | Julle      | 12            | 3      | 1      | 0         | 6             | 5               | 11              | 6              |
-| 2. Kurkelan Kulmahampaat | Aleksi     | 8            | 2      | 0      | 0         | 4             | 1               | 4              | 2              |
-| 3. Blackbears            | Oona       | 5            | 1      | 0      | 1         | 5             | 2               | 2              | 8              |
+| 2. Blackbears            | Oona       | 8            | 2      | 0      | 1         | 7             | 3               | 4              | 9              |
+| 3. Kurkelan Kulmahampaat | Aleksi     | 8            | 2      | 1      | 0         | 5             | 3               | 5              | 4              |
 | 4. Keravan Juoksukaljat  | Olli       | 4            | 1      | 1      | 0         | 3             | 3               | 6              | 4              |
 | 5. Ahjon Kahjot           | Tony       | 3            | 0      | 0      | 2         | 3             | 2               | 6              | 2              |
 | 6. Rappion Etujoukot     | Eve        | 2            | 0      | 2      | 1         | 2             | 5               | 4              | 5              |
@@ -22,7 +22,7 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 | Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   |  -  | -| -|
 | Sompion Sopulit - Rappion Etujoukot         | Olli - Eve   |  -      |-|-|
 | Sompion Sopulit - Keravan Punaiset | Teo - Julle | 0 - 1 |15.7, Tyrmä|0 - 4|
-| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  -    |-|-|
+| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  2 - 1   |17.7, Aleksi&Oona Arena| 1 - 1|
 
 
 
