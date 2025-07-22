@@ -1,7 +1,7 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille.
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
-Liigatilanne 17.7.2025
+Liigatilanne 22.7.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit | Kärsityt uhrit |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
@@ -10,8 +10,9 @@ Liigatilanne 17.7.2025
 | 3. Kurkelan Kulmahampaat | Aleksi     | 8            | 2      | 1      | 0         | 5             | 3               | 5              | 4              |
 | 4. Keravan Juoksukaljat  | Olli       | 4            | 1      | 1      | 0         | 3             | 3               | 6              | 4              |
 | 5. Ahjon Kahjot           | Tony       | 3            | 0      | 0      | 2         | 3             | 2               | 6              | 2              |
-| 6. Rappion Etujoukot     | Eve        | 2            | 0      | 2      | 1         | 2             | 5               | 4              | 5              |
-| 7. Sompion Sopulit         | Teo        | 0            | 0      | 3      | 0         | 1             | 4               | 2              |9              |
+| 6. Sompion Sopulit         | Teo        | 3            | 1      | 3      | 0         | 3             | 5               | 2              |10              |
+| 7. Rappion Etujoukot     | Eve        | 2            | 0      | 3      | 1         | 2             | 5               | 5              | 5              |
+
 
 ### 3. kierros
 Kolmas kierros on käynnistynyt. Otteluparit on arvottu.
@@ -20,7 +21,7 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
 | Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   |  -  | -| -|
-| Sompion Sopulit - Rappion Etujoukot         | Olli - Eve   |  -      |-|-|
+| Sompion Sopulit - Rappion Etujoukot         | Teo - Eve   | 2  -  1 19.7, Tyrmä   ||0 - 0|
 | Sompion Sopulit - Keravan Punaiset | Teo - Julle | 0 - 1 |15.7, Tyrmä|0 - 4|
 | Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  2 - 1   |17.7, Aleksi&Oona Arena| 1 - 1|
 
