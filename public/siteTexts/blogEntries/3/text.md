@@ -5,4 +5,4 @@
 
 *Valmentaja: Oona, Roster: Human*
 
-[Blackbears BB Roster](https://bbroster.com?code=t9t25m0f0y1d2r3p42v20m1e53n1a1p42s1m1p42m1s4n1p42s2p39p39m1i00001p41s3x8p39x9s3p39x10p40x11s2p5x7p39j1e71p39j1e71p39e71j1p39e71j1IBlackbears:Orson:Nalle:Mischa:Bamse:Teddy:Winnie:Bernard:Baloo:Koda:Ursula:Wojtek)
+[Blackbears BB Roster](https://bbroster.com?code=t9t35m0f0d3r3y1p42n1a1e53v20p42s1p42s4n1p42s2p39p39i00001p41p41a1e2v20p39s3p39p40e40a1s3v20p5x13s2IBlackbears:Orson:Nalle:Mischa:Bamse:Teddy:Winnie:Bj%C3%B6rn%20II:Bernard:Baloo:Koda:Ursula:Wojtek)
