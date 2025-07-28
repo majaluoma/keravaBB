@@ -5,31 +5,32 @@
 
 Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemattoman Keravalaisen olut tehtaan PR-edustaja antoikin joukkueelle samantien kiellon käyttää mitään ~~Sinebrychoffin~~ nimeltä mainitsemattoman Keravalaisen olut tehtaan materiaalia tai nimeä toiminnassaan. Keravan Punaisista voikin sanoa monta asiaa, ja niin PR-edustaja sanoikin, mutta luovuttajia he eivät ole. Siispä takaiskusta motivoituneina, heidän päämääränsä on nyt osallistua tarunhohtoiseen Kerava Cuppiin ja voittaa se. Silloin ~~Sinebrychoffin~~ nimeltä mainitsemattoman Keravalaisen olut tehtaan johto ei voi tehdä muuta kuin tunnustaa joukkueen bärndiarvo ja antaa heille sponsorisopimus (ja paljon olutta).
 
-## Keravan Punaisten joukkue 13.7.2025:
+## Keravan Punaisten joukkue 28.7.2025:
 
 | #  | Nimi              | Positio    | MA | ST | AG | PA | AV | Skills                                      | Hiring Fee | SPP | MNG | NI | TR | Current Value |
 |----|-------------------|------------|----|----|----|----|----|---------------------------------------------|------------|-----|-----|----|----|---------------|
-| 1  | Sonja Surma       | Valkyyri   | 7  | 3  | 3+ | 3+ | 8+ | Catch, Pass, Dauntless, Strip Ball          | 95,000     | 5   |     |  X  |    | 95,000        |
-| 2  | Kimmo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy                                      | 105,000    |     |    | X  |    | 105,000       |
+| 1  | Sonja Surma       | Valkyyri   | 7  | 3  | 3+ | 3+ | 8+ | Catch, Pass, Dauntless, Strip Ball , Dodge         | 95,000     | 3   |  X  |  X  |    | 115,000        |
+| 2  | Kimmo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy                                      | 105,000    | 4    |    | X  |    | 105,000       |
 | 3  | Seppo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block, Pile driver                                      | 105,000    | 6   |     |    |    | 135,000       |
-| 4  | Erkki Bärs              | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up | 90,000     | 4    |     |    |    | 90,000        |
+| 4  | Erkki Bärs        | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up | 90,000     | 4    |     |    |    | 90,000        |
 | 5  | Raimo Vaahtoparta | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick                | 50,000     | 1    |    | X  |    | 60,000        |
 | 6  | Asko Vehnämies    | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Frenzy                | 50,000     |     |     |    |    | 60,000        |
 | 7  | Antero Sakkanen   | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |  X  |    | 50,000        |
 | 8  | Edgar Stout       | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |    |    | 50,000        |
 | 9  | Riitta Radler     | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Dirty player (+1)                | 50,000     | 1   |     |    |    | 60,000        |
 | 11 | Iina Ipa          | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick          | 50,000     |     |     |    |    | 70,000        |
-| 12  | Nipa              | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |     |    |    | 20,000        |
-| 16 | Mörkö          | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1)          | 140,000     | 2    |     |    |    | 160,000        |
+| 12  | Nipa             | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |   X  |  X  |    | 20,000        |
+| 13  | Tony Halme        | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up | 90,000     |     |     |    |    | 90,000        |
+| 16 | Mörkö             | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1)          | 140,000     | 4    |     |    |    | 160,000        |
 
-- Treasury: 65,000
+- Treasury: 20,000
 - Dedicated Fans: 3/6
 - Total Touchdowns: 4
-- Total Casualties: 11
-- League Points: 12
+- Total Casualties: 14
+- League Points: 13
 - Team Rerolls: 3 x 60k
 - Assistant Coaches:
 - Cheerleaders:
 - Apothecary: 1 /50k
-- Team Value: 1 185,000
-- Current Team Value: 1 185,000
+- Team Value: 1 295,000
+- Current Team Value: 1 160,000
