@@ -5,8 +5,8 @@ Liigatilanne 27.7.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit | Kärsityt uhrit |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
-| 1. Keravan Punaiset      | Julle      | 12            | 3      | 1      | 0         | 6             | 5               | 11              | 6              |
-| 2. Blackbears            | Oona       | 8            | 2      | 0      | 1         | 7             | 3               | 4              | 9              |
+| 1. Keravan Punaiset      | Julle      | 13            | 3      | 2      | 0         | 6             | 6               | 14              | 8              |
+| 2. Blackbears            | Oona       | 11            | 3      | 0      | 1         | 8             | 3               | 6              | 12              |
 | 3. Kurkelan Kulmahampaat | Aleksi     | 8            | 2      | 1      | 0         | 5             | 3               | 5              | 4              |
 | 4. Keravan Juoksukaljat  | Olli       | 7            | 2      | 1      | 0         | 5             | 3               | 8              | 5              |
 | 5. Ahjon Kahjot           | Tony       | 3            | 0      | 1      | 2         | 3             | 4               | 7              | 4              |
