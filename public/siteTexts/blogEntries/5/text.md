@@ -32,4 +32,4 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 - Cheerleaders:
 - Apothecary: 1 /50k
 - Team Value: 1 185,000
-- Current Team Value: 1 1385,000
+- Current Team Value: 1 185,000
