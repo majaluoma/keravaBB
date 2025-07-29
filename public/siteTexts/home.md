@@ -13,6 +13,17 @@ Liigatilanne 27.7.2025
 | 6. Sompion Sopulit         | Teo        | 3            | 1      | 3      | 0         | 3             | 5               | 2              |10              |
 | 7. Rappion Etujoukot     | Eve        | 2            | 0      | 3      | 1         | 2             | 5               | 5              | 5              |
 
+### 4. kierros
+Neljäs kierros on käynnistynyt. Otteluparit on arvottu.
+Pelit tulee olla pelattu 3.8.2025 mennessä.
+
+|                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
+|---------------------------------------|------------|:-----:|--------------|:--------------:|
+| Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   | 0 - 0 | 27.7, Tyrmä| 1 - 1|
+| Sompion Sopulit - Rappion Etujoukot         | Teo - Eve   | 0  -  0    |19.7, Tyrmä|0 - 0|
+| Blackbears - Keravan Punaiset | Oona - Julle | 1 - 0 |28.7, Tyrmä|2 - 3|
+| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  0 - 0   |17.7, Aleksi&Oona Arena| 1 - 1|
+
 
 ### 3. kierros
 Kolmas kierros on käynnistynyt. Otteluparit on arvottu.
@@ -20,10 +31,10 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
-| Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   | 2 - 0 | 27.7, Tyrmä| 1 - 1|
-| Sompion Sopulit - Rappion Etujoukot         | Teo - Eve   | 2  -  1    |19.7, Tyrmä|0 - 0|
-| Sompion Sopulit - Keravan Punaiset | Teo - Julle | 0 - 1 |15.7, Tyrmä|0 - 4|
-| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  2 - 1   |17.7, Aleksi&Oona Arena| 1 - 1|
+| Sompion Sopulit - Ahjon Kahjot          | Teo - Tony   |  -  | -| -|
+| Keravan Juoksukaljat - Rappion Etujoukot         | Olli - Eve   |   -      |-| - |
+| Blackbears - Keravan Punaiset | Oona - Julle | 0 - 1 |15.7, Tyrmä| - |
+| Keravan Juoksukaljat - Kurkelan Kulmahampaat   | Olli - Aleksi |   -    |-|  - |
 
 
 
