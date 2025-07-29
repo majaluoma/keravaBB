@@ -29,7 +29,7 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 Kolmas kierros on käynnistynyt. Otteluparit on arvottu.
 Pelit tulee olla pelattu 3.8.2025 mennessä.
 
-##KULMAHAMPAIDEN PALKKAAMAT HAKKERIT OVAT KORRUPTOINEET DATAN TÄLTÄ KIERROKSELTA, LIIGAKOMISSIO KIELTÄÄ YHTEYTENSÄ TÄHÄN YLLÄTTÄVÄÄN KÄÄNTEESEEN.
+###KULMAHAMPAIDEN PALKKAAMAT HAKKERIT OVAT KORRUPTOINEET DATAN TÄLTÄ KIERROKSELTA, LIIGAKOMISSIO KIELTÄÄ YHTEYTENSÄ TÄHÄN YLLÄTTÄVÄÄN KÄÄNTEESEEN.
 
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
