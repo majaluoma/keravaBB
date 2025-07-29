@@ -19,10 +19,10 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
-| Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   | 0 - 0 | 27.7, Tyrmä| 1 - 1|
-| Sompion Sopulit - Rappion Etujoukot         | Teo - Eve   | 0  -  0    |19.7, Tyrmä|0 - 0|
+| Keravan Juoksukaljat - Ahjon Kahjot          | Olli - Tony   | 0 - 0 | 27.7, Tyrmä|  - |
+| Sompion Sopulit - Rappion Etujoukot         | Teo - Eve   | 0  -  0    |19.7, Tyrmä| - |
 | Blackbears - Keravan Punaiset | Oona - Julle | 1 - 0 |28.7, Tyrmä|2 - 3|
-| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  0 - 0   |17.7, Aleksi&Oona Arena| 1 - 1|
+| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi |  0 - 0   |17.7, Aleksi&Oona Arena|  - |
 
 
 ### 3. kierros
