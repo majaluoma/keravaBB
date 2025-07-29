@@ -29,11 +29,13 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 Kolmas kierros on käynnistynyt. Otteluparit on arvottu.
 Pelit tulee olla pelattu 3.8.2025 mennessä.
 
+##KULMAHAMPAIDEN PALKKAAMAT HAKKERIT OVAT KORRUPTOINEET DATAN TÄLTÄ KIERROKSELTA, LIIGAKOMISSIO KIELTÄÄ YHTEYTENSÄ TÄHÄN YLLÄTTÄVÄÄN KÄÄNTEESEEN.
+
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
 | Sompion Sopulit - Ahjon Kahjot          | Teo - Tony   |  -  | -| -|
 | Keravan Juoksukaljat - Rappion Etujoukot         | Olli - Eve   |   -      |-| - |
-| Blackbears - Keravan Punaiset | Oona - Julle | 0 - 1 |15.7, Tyrmä| - |
+| Blackbears - Keravan Punaiset | Oona - Julle |  -  |15.7, Tyrmä| - |
 | Keravan Juoksukaljat - Kurkelan Kulmahampaat   | Olli - Aleksi |   -    |-|  - |
 
 
