@@ -11,7 +11,7 @@ Liigatilanne 2.8.2025
 | 4. Keravan Juoksukaljat  | Olli       | 7            | 2      | 2      | 0         | 5             | 4               | 12              | 8              |
 | 5. Ahjon Kahjot           | Tony       | 3            | 0      | 1      | 2         | 3             | 4               | 7              | 4              |
 | 6. Sompion Sopulit         | Teo        | 3            | 1      | 3      | 0         | 3             | 5               | 2              |10              |
-| 7. Rappion Etujoukot     | Eve        | 2            | 0      | 3      | 1         | 2             | 5               | 5              | 5              |
+| 7. Rappion Etujoukot     | Eve        | 1            | 0      | 3      | 1         | 2             | 5               | 5              | 5              |
 
 ### 4. kierros
 Neljäs kierros on käynnistynyt. Otteluparit on arvottu.
