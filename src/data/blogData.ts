@@ -55,4 +55,11 @@ export const blogData = [
     date: new Date('2025-07-13'),
     labels: ['ottelut', 'kierroksen katsaus'],
   },
+  {
+    id:9,
+    title: 'Puolet Ahjon kahjoista päivystykseen ja Keravan juoksukaljojen liukastuminen juuri ennen maaliviivaa.',
+    ingress: 'Ahjon kahjot vs Keravan juoksukaljat',
+    date: new Date('2025-08-05'),
+    labels: ['ottelut', 'keravan juoksukaljat', 'ahjon kahjot'],
+  },
 ];
