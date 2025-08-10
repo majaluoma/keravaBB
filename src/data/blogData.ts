@@ -63,7 +63,7 @@ export const blogData = [
     labels: ['ottelut', 'keravan juoksukaljat', 'ahjon kahjot'],
   },
   {
-    id:9,
+    id:10,
     title: '"Ei voi olla vaikeeta" - Blood Bowl -valmentaja luottaa vaistoon, väkivaltaan ja mallasnektariin',
     ingress: 'KEravan punaisten valmentajan haastattelu',
     date: new Date('2025-08-10'),
