@@ -9,9 +9,20 @@ Liigatilanne 2.8.2025
 | 2. Blackbears            | Oona       | 11            | 3      | 0      | 1         | 8             | 3               | 6              | 12              |
 | 3. Kurkelan Kulmahampaat | Aleksi     | 11            | 3      | 1      | 0         | 7             | 3               | 7              | 8             |
 | 4. Keravan Juoksukaljat  | Olli       | 8            | 2      | 2      | 1         | 5             | 4               | 14              | 9              |
-| 5. Ahjon Kahjot           | Tony       | 3            | 0      | 1      | 2         | 3             | 4               | 7              | 4              |
-| 6. Sompion Sopulit         | Teo        | 3            | 1      | 3      | 0         | 3             | 5               | 2              |10              |
+| 5. Sompion Sopulit         | Teo        | 7            | 2      | 3      | 0         | 6             | 5               | 4              |10              |
+| 6. Ahjon Kahjot           | Tony       | 3            | 0      | 2      | 2         | 3             | 4               | 7              | 4              |
 | 7. Rappion Etujoukot     | Eve        | 2            | 0      | 3      | 2         | 2             | 5               | 7              | 6              |
+
+### 5. kierros
+Viides kierros on käynnistynyt. Otteluparit on arvottu.
+Pelit tulee olla pelattu 31.8.2025 mennessä.
+
+|                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
+|---------------------------------------|------------|:-----:|--------------|:--------------:|
+| Keravan Juoksukaljat - Blackbears          | Olli - Oona  |  -  | -| - |
+| Keravan Punaiset - Ahjon Kahjot         | Julle - Tony   |   -      |-| -|
+| Ahjon Kahjot - Kurkelan Kulmahampaat | Tony - Aleksi |  -  |-|-|
+| Rappion Etujoukot - Kurkelan Kulmahampaat   | Eve - Aleksi |   -    |-|  -|
 
 ### 4. kierros
 Neljäs kierros on käynnistynyt. Otteluparit on arvottu.
@@ -20,7 +31,7 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
 | Keravan Juoksukaljat - Rappion etujoukot          | Olli - Eve  | 0 - 0 | 7.8, Tyrmä| 1 - 1 |
-| Sompion Sopulit - Ahjon Kahjot         | Teo - Tony   |   -      |-| - |
+| Sompion Sopulit - Ahjon Kahjot         | Teo - Tony   | 3  -  0    |9.8, Tyrmä| 2 - 0|
 | Blackbears - Keravan Punaiset | Oona - Julle | 1 - 0 |28.7, Tyrmä|2 - 3|
 | Keravan Juoksukaljat - Kurkelan Kulmahampaat   | Olli - Aleksi |  0 - 1   |2.8, Tyrmä|  2 - 2 |
 
