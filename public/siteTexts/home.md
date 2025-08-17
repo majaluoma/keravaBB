@@ -7,10 +7,10 @@ Liigatilanne 2.8.2025
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
 | 1. Keravan Punaiset      | Julle      | 13            | 3      | 2      | 0         | 6             | 6               | 14              | 8              |
 | 2. Blackbears            | Oona       | 11            | 3      | 0      | 1         | 8             | 3               | 6              | 12              |
-| 3. Kurkelan Kulmahampaat | Aleksi     | 11            | 3      | 1      | 0         | 7             | 3               | 7              | 8             |
+| 3. Kurkelan Kulmahampaat | Aleksi     | 11            | 3      | 2      | 0         | 7             | 3               | 7              | 8             |
 | 4. Keravan Juoksukaljat  | Olli       | 8            | 2      | 2      | 1         | 5             | 4               | 14              | 9              |
 | 5. Sompion Sopulit         | Teo        | 7            | 2      | 3      | 0         | 6             | 5               | 4              |10              |
-| 6. Ahjon Kahjot           | Tony       | 3            | 0      | 2      | 2         | 3             | 4               | 7              | 4              |
+| 6. Ahjon Kahjot           | Tony       | 6            | 1      | 2      | 2         | 3             | 4               | 7              | 5              |
 | 7. Rappion Etujoukot     | Eve        | 2            | 0      | 3      | 2         | 2             | 5               | 7              | 6              |
 
 ### 5. kierros
@@ -21,7 +21,7 @@ Pelit tulee olla pelattu 31.8.2025 mennessä.
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
 | Keravan Juoksukaljat - Blackbears          | Olli - Oona  |  -  | -| - |
 | Keravan Punaiset - Ahjon Kahjot         | Julle - Tony   |   -      |-| -|
-| Ahjon Kahjot - Kurkelan Kulmahampaat | Tony - Aleksi |  -  |-|-|
+| Ahjon Kahjot - Kurkelan Kulmahampaat | Tony - Aleksi | 1  - 0 |15.8, Tyrmä|0 - 0|
 | Rappion Etujoukot - Kurkelan Kulmahampaat   | Eve - Aleksi |   -    |-|  -|
 
 ### 4. kierros
