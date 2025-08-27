@@ -9,22 +9,22 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 
 | #  | Nimi              | Positio    | MA | ST | AG | PA | AV | Skills                                      | Hiring Fee | SPP | MNG | NI | TR | Current Value |
 |----|-------------------|------------|----|----|----|----|----|---------------------------------------------|------------|-----|-----|----|----|---------------|
-| 1  | Sonja Surma       | Valkyyri   | 7  | 3  | 3+ | 3+ | 8+ | Catch, Pass, Dauntless, Strip Ball , Dodge         | 95,000     | 3   |  X  |  X  |    | 115,000        |
-| 2  | Kimmo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy                                      | 105,000    | 4    |    | X  |    | 105,000       |
-| 3  | Seppo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block, Pile driver                                      | 105,000    | 6   |     |    |    | 135,000       |
-| 4  | Erkki Bärs        | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up | 90,000     | 4    |     |    |    | 90,000        |
-| 5  | Raimo Vaahtoparta | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick                | 50,000     | 1    |    | X  |    | 60,000        |
-| 6  | Asko Vehnämies    | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Frenzy                | 50,000     |     |     |    |    | 60,000        |
-| 7  | Antero Sakkanen   | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |  X  |    | 50,000        |
-| 8  | Edgar Stout       | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |    |    | 50,000        |
-| 9  | Riitta Radler     | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Dirty player (+1)                | 50,000     | 1   |     |    |    | 60,000        |
+| 1  | Sonja Surma       | Valkyyri   | 7  | 3  | 3+ | 3+ | 8+ | Catch, Pass, Dauntless, Strip Ball , Dodge  | 95,000     | 3   |     |  X |    | 115,000        |
+| 2  | Kimmo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy                                      | 105,000    | 4   |     | X  |    | 105,000       |
+| 3  | Seppo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block, Pile driver                  | 105,000    | 6   |     |    |    | 135,000       |
+| 4  | Erkki Bärs        | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up                      | 90,000     | 4   |     |    |    | 90,000        |
+| 5  | Raimo Vaahtoparta | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick          | 50,000     | 1   |     | X  |    | 60,000        |
+| 6  | Asko Vehnämies    | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Frenzy        | 50,000     |     |     |    |    | 60,000        |
+| 7  | Antero Sakkanen   | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |  X |    | 50,000        |
+| 8  | Edgar Stout       | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |7    |     |    |    | 50,000        |
+| 9  | Riitta Radler     | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Dirty player (+1)| 50,000  | 1   |     |    |    | 60,000        |
 | 11 | Iina Ipa          | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick          | 50,000     |     |     |    |    | 70,000        |
-| 12  | Nipa             | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |   X  |  X  |    | 20,000        |
-| 13  | Tony Halme        | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up | 90,000     |     |     |    |    | 90,000        |
-| 16 | Mörkö             | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1)          | 140,000     | 4    |     |    |    | 160,000        |
+| 12  | Nipa             | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |     |  X |    | 20,000        |
+| 13  | Tony Halme        | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up                     | 90,000     | 3   |     |    |    | 90,000        |
+| 16 | Mörkö             | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1) | 140,000     | 8    |     |    |    | 160,000        |
 
-- Treasury: 20,000
-- Dedicated Fans: 3/6
+- Treasury: 80,000
+- Dedicated Fans: 4/6
 - Total Touchdowns: 4
 - Total Casualties: 14
 - League Points: 13
