@@ -15,10 +15,10 @@ Total value: 1 220 000  Treasury: 135 000
 |8||Stabba   |6|3|3+|5+|8+|Shadowing, Stab                                                                              |70,000    |   |   |  |  |70,000|
 |11|Syyhky|Hobgoblin|6|3|3+|4+|8+| Sure hands                                                                           |40,000    | 1 |   |  |  |60,000|
 |12||Hobgoblin|6|3|3+|4+|8+|                                                                                            |40,000    |   |   |  |  |40,000|
-|13||Hobgoblin|6|3|3+|4+|8+| Sure hands                                                                                 |40,000    |   |   |  |  |50,000|
-|14||Hobgoblin|6|3|3+|4+|8+| Pro                                                                                        |40,000    |   |   |  |  |50,000|
+|13| Tölkki |Hobgoblin|6|3|3+|4+|8+| Sure hands                                                                         |40,000    |   |   |  |  |50,000|
+|14| Niko ceellä |Hobgoblin|6|3|3+|4+|8+| Pro                                                                           |40,000    |   |   |  |  |50,000|
 |15||Hobgoblin|6|3|3+|4+|8+|                                                                                            |40,000    |   |   |  |  |40,000|
-|16||Hobgoblin|6|3|3+|4+|8+| Strip ball                                                                                 |40,000    | 1 |   |  |  |50,000|
+|16| Lokki |Hobgoblin|6|3|3+|4+|8+| Strip ball                                                                          |40,000    | 1 |   |  |  |50,000|
 
 - Rerolls 	2 / 8 	70,000 	
 - Assistant Coaches 	0 / 6 	10,000 	
