@@ -16,12 +16,12 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 | 5  | Raimo Vaahtoparta | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick          | 50,000     | 1   |     | X  |    | 60,000        |
 | 6  | Asko Vehnämies    | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Frenzy        | 50,000     |     |     |    |    | 60,000        |
 | 7  | Antero Sakkanen   | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     |  X |    | 50,000        |
-| 8  | Edgar Stout       | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |7    |     |    |    | 50,000        |
+| 8  | Edgar Stout       | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Stand firm    | 50,000     |1    |     |    |    | 70,000        |
 | 9  | Riitta Radler     | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Dirty player (+1)| 50,000  | 1   |     |    |    | 60,000        |
 | 11 | Iina Ipa          | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick          | 50,000     |     |     |    |    | 70,000        |
 | 12  | Nipa             | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |     |  X |    | 20,000        |
 | 13  | Tony Halme        | Berzerker  | 6  | 3  | 3+ | 5  | 8+ | Block, Frenzy, Jump up                     | 90,000     | 3   |     |    |    | 90,000        |
-| 16 | Mörkö             | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1) | 140,000     | 8    |     |    |    | 160,000        |
+| 16 | Mörkö             | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1), Brawler | 140,000     | 2    |     |    |    | 170,000        |
 
 - Treasury: 80,000
 - Dedicated Fans: 4/6
@@ -29,8 +29,8 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 - Total Casualties: 14
 - League Points: 13
 - Team Rerolls: 3 x 60k
-- Assistant Coaches:
+- Assistant Coaches: 1
 - Cheerleaders:
 - Apothecary: 1 /50k
-- Team Value: 1 295,000
-- Current Team Value: 1 160,000
+- Team Value: 1 335 000
+- Current Team Value: 1 335 000
