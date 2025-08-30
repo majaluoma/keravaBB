@@ -69,4 +69,11 @@ export const blogData = [
     date: new Date('2025-08-10'),
     labels: ['haastattelut', 'keravan punaiset', 'valmentajat'],
   },
+  {
+    id:12,
+    title: 'Tähtipelaaja ei riittänyt tuomaan voittoa Sompion Sopuleille Blackbearsejä vastaan',
+    ingress: 'Blackbears vs. Sompion Sopulit',
+    date: new Date('2025-08-30'),
+    labels: ['ottelut', 'sompion sopulit', 'blackbears'],
+  },
 ];
