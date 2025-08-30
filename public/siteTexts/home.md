@@ -23,7 +23,7 @@ Pelit tulee olla pelattu 31.8.2025 mennessä.
 | Keravan Punaiset - Ahjon Kahjot         | Julle - Tony   | 2  -   0   |27.8, Tyrmä| 2 - 0|
 | Ahjon Kahjot - Kurkelan Kulmahampaat | Tony - Aleksi | 1  - 0 |15.8, Tyrmä|0 - 0|
 | Rappion Etujoukot - Kurkelan Kulmahampaat   | Eve - Aleksi |   -    |-|  -|
-| Sompion Sopulit - Blackbears   | Teo  - Oona |   -    |-|  -|
+| Sompion Sopulit - Blackbears   | Teo  - Oona |   1 - 2    |30.8., Tyrmä| 0 - 1 |
 
 ### 4. kierros
 Neljäs kierros on käynnistynyt. Otteluparit on arvottu.
