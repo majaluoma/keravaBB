@@ -7,7 +7,7 @@
 - Blackbearsit pysyvät voittamattomina ottelun päätyttyä 2-1
 - Sompulit pääsevät vihdoin täydellä neljän Runnerin kokoonpanolla seuraavaan otteluun
 
-![alt text](/siteTexts/blogEntries/12/sompulitsmall.jpeg)
+![alt text](/siteTexts/blogEntries/12/sompulitsmall.jpg)
 
 **Kerava Cupin** runkosarja lähenee puoliväliä, kun Sompulit kohtasivat viimeisen vastustajansa Blackbearsin. Vaikka muu Kerava oli sadesumun peitossa, niin pelikentällä sää suosi ja paikalle oli saapunut huimat 12 000 katsojaa. Tämän ottelun yllätyksenä oli altavastaajan eli Sompion Sopuleiden väliaikaiseksi tueksi palkattu tähtipelaaja Skitter Stab-Stab, joka herätti vastustajissa ansaittua pelonsekaista kunnioitusta.
 
@@ -20,6 +20,7 @@ Mites se tähtipelaaja? Skitter Stab-Stab oli ensimmäisellä puoliajalla väist
 Blackbears jatkaa yhä voittamattomana seuraavaan otteluunsa Keravan Juoksukaljoja vastaan. Huhu kertoo, että mustakarhut oppivat paljon uusia temppuja tästä ottelusta. Sompion Sopulit jäävät odottamaan arpaa seuraavasta vastuksesta; tällä kertaa he kuitenkin pääsevät iskemään täydellä neljän juoksijan kokoonpanolla, sillä vain yksi linjamies loukkaantui vakavasti tässä ottelussa.
 
 **Yhteenveto**
+
 Blackbears:
 - 2 TD
 - 1 SPP Casualty caused
