@@ -25,8 +25,8 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 
 - Treasury: 80,000
 - Dedicated Fans: 4/6
-- Total Touchdowns: 4
-- Total Casualties: 14
+- Total Touchdowns: 8
+- Total Casualties: 17
 - League Points: 13
 - Team Rerolls: 3 x 60k
 - Assistant Coaches: 1
