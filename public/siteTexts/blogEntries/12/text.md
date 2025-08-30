@@ -7,6 +7,8 @@
 - Blackbearsit pysyvät voittamattomina ottelun päätyttyä 2-1
 - Sompulit pääsevät vihdoin täydellä neljän Runnerin kokoonpanolla seuraavaan otteluun
 
+![alt text](/siteTexts/blogEntries/12/sompulitsmall.jpeg)
+
 **Kerava Cupin** runkosarja lähenee puoliväliä, kun Sompulit kohtasivat viimeisen vastustajansa Blackbearsin. Vaikka muu Kerava oli sadesumun peitossa, niin pelikentällä sää suosi ja paikalle oli saapunut huimat 12 000 katsojaa. Tämän ottelun yllätyksenä oli altavastaajan eli Sompion Sopuleiden väliaikaiseksi tueksi palkattu tähtipelaaja Skitter Stab-Stab, joka herätti vastustajissa ansaittua pelonsekaista kunnioitusta.
 
 Jännitys kohosi välittömästi ensimmäisen puoliajan alkaessa, kun Blackbearsien alkusyöttö venyi liian pitkäksi ja pallo päätyi suoraan Sompuleiden juoksijan haltuun. Sehän päättyi arvattavalla tavalla, eli ensimmäistä Sompuleiden maalia hurrattiin jo toisella vuorolla. Sisuuntuneina Blackbearsit käynnistivät oman taktisen hyökkäyksensä, mutta vaikka pallo lepäsi jo maalialueella, eivät mustakarhut ehtineet saada maalia ennen puoliaikapillin vihellystä. Tunnelma taisi tiivistyä liiaksikin, sillä Mustakarhujen valmentaja nähtiin pyllähtävän aitiossa kumoon istuessaan ohi tuolistaan. Suurimman vahingon kärsi onneksi kaatunut kahvi. 
