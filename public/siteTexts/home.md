@@ -1,17 +1,17 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille.
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
-Liigatilanne 17.8.2025
+Liigatilanne 2.9.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit | Kärsityt uhrit |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
 | 1. Keravan Punaiset      | Julle      | 16            | 4      | 2      | 0         | 8             | 6               | 17              | 8              |
-| 2. Blackbears            | Oona       | 14            | 4      | 0      | 1         | 10             | 4               | 7              | 12              |
-| 3. Kurkelan Kulmahampaat | Aleksi     | 11            | 3      | 2      | 0         | 7             | 3               | 7              | 8             |
+| 4. Kurkelan Kulmahampaat | Aleksi     | 14            | 4      | 2      | 0         | 9             | 4               | 7              | 13             |
+| 3. Blackbears            | Oona       | 14            | 4      | 0      | 1         | 10             | 4               | 7              | 12              |
 | 4. Keravan Juoksukaljat  | Olli       | 8            | 2      | 2      | 1         | 5             | 4               | 14              | 9              |
 | 5. Sompion Sopulit         | Teo        | 7            | 2      | 4      | 0         | 7             | 7               | 4              |11              |
 | 6. Ahjon Kahjot           | Tony       | 6            | 1      | 3      | 2         | 3             | 4               | 7              | 8              |
-| 7. Rappion Etujoukot     | Eve        | 2            | 0      | 3      | 2         | 2             | 5               | 7              | 6              |
+| 7. Rappion Etujoukot     | Eve        | 3            | 0      | 4      | 2         | 3             | 7               | 12              | 6              |
 
 ### 5. kierros
 Viides kierros on käynnistynyt. Otteluparit on arvottu.
@@ -22,7 +22,7 @@ Pelit tulee olla pelattu 31.8.2025 mennessä.
 | Keravan Juoksukaljat - Blackbears          | Olli - Oona  |  -  | -| - |
 | Keravan Punaiset - Ahjon Kahjot         | Julle - Tony   | 2  -   0   |27.8, Tyrmä| 2 - 0|
 | Ahjon Kahjot - Kurkelan Kulmahampaat | Tony - Aleksi | 1  - 0 |15.8, Tyrmä|0 - 0|
-| Rappion Etujoukot - Kurkelan Kulmahampaat   | Eve - Aleksi |   -    |-|  -|
+| Rappion Etujoukot - Kurkelan Kulmahampaat   | Eve - Aleksi |   1 - 2    |31.8., Tyrmä| 5 - 0 |
 | Sompion Sopulit - Blackbears   | Teo  - Oona |   1 - 2    |30.8., Tyrmä| 0 - 1 |
 
 ### 4. kierros
@@ -41,14 +41,14 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 Kolmas kierros on käynnistynyt. Otteluparit on arvottu.
 Pelit tulee olla pelattu 3.8.2025 mennessä.
 
-###KULMAHAMPAIDEN PALKKAAMAT HAKKERIT OVAT KORRUPTOINEET DATAN TÄLTÄ KIERROKSELTA, LIIGAKOMISSIO KIELTÄÄ YHTEYTENSÄ TÄHÄN YLLÄTTÄVÄÄN KÄÄNTEESEEN.
+#### KULMAHAMPAIDEN PALKKAAMAT HAKKERIT OVAT KORRUPTOINEET DATAN TÄLTÄ KIERROKSELTA, LIIGAKOMISSIO KIELTÄÄ YHTEYTENSÄ TÄHÄN YLLÄTTÄVÄÄN KÄÄNTEESEEN. DATA PALAUTETTU SAATAVILTA OSIN MUSTAKARHUJEN EPÄVIRALLISISTA ARKISTOISTA.
 
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
-| Sompion Sopulit - Ahjon Kahjot          | Teo - Tony   |  -  | -| -|
-| Keravan Juoksukaljat - Rappion Etujoukot         | Olli - Eve   |   -      |-| - |
-| Blackbears - Keravan Punaiset | Oona - Julle |  -  || - |
-| Keravan Juoksukaljat - Kurkelan Kulmahampaat   | Olli - Aleksi |   -    |-|  - |
+| Keravan Juoksukaljat - Ahjon Kahjot | Olli - Tony   |  2 - 0  | Tyrmä | 2 - 1 |
+| Sompion Sopulit - Rappion Etujoukot | Teo - Eve   | 2 - 1 | Tyrmä | 0 - 0 |
+| Sompion Sopulit - Keravan Punaiset | Teo - Julle |  0 - 1  | Tyrmä | 0 - 4 |
+| Blackbears - Kurkelan Kulmahampaat | Oona - Aleksi | 2 - 1 | Kreivi Sariolan yksityinen BB Arena |  1 - 1 |
 
 
 
