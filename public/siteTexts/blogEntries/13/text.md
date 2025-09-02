@@ -1,4 +1,4 @@
-Hyvät, pahat ja rumat - Kerava Cupin tähtipelaajakatsaus
+# Hyvät, pahat ja rumat - Kerava Cupin tähtipelaajakatsaus
 
 Keravan juoksukaljojen Syyhky, on osoittanut että elämä todellakin opettaa. Tämän keravalaisen voidaan sanoa aloittaneensa uransa jo Keskuskouluajoilta, kun hän näpisti sanojensa mukaan joka arkipäivä Aseman cittarista kokiksen. Huomaamattomat liikkeet ja lipevät kädentaidot ovat ansainneet 40 % joukkoeen maaleista. Hyvä suoritus kenelle tahansa, mutta Keravan kaduilta ponnistaneelle näpistelijälle, tämä on erityisen hyvä suoritus. Joukkoeen valmentaja on erityisen onnellinen, että sattuma antoi kokemusta juuri sille joukkoeen pelaajalle, jolla on porukan nopeimmat aurinkolasit. Toinen hilpeyttä herättänyt pelaaja joukkoeessa on Red Bull, joka muskeleistaan huolimatta ei ole onnistunut mätkimään yhtään pelaajaa kumoon koko liigan aikana. Toisaalta hän on tehnyt kaksi maalia.
 
@@ -26,4 +26,5 @@ Björn nousi joukkueensa Blackbearsin johtotähdeksi jo heti ensimmäisessä lii
 ![alt text](/siteTexts/blogEntries/13/image-2.jpeg)
 
 |#|Name|Position|MA|ST|AG|PA|AV|Skills                                                                                  |Hiring Fee|SPP|MNG|NI|TR|Current Value|
+
 |7|Björn|Catcher|8|2|3+|5+|8+| Dodge, Catch, Sidestep, DEAD                                                             |65,000    | 0 |   |  |  |75,000|
