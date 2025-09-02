@@ -76,4 +76,11 @@ export const blogData = [
     date: new Date('2025-08-30'),
     labels: ['ottelut', 'sompion sopulit', 'blackbears'],
   },
+  {
+    id:13,
+    title: 'Hyvät, pahat ja rumat - Kerava Cupin tähtipelaajakatsaus',
+    ingress: 'tähtipelaajaesittely',
+    date: new Date('2025-09-02'),
+    labels: ['tähtipelaajaesittely'],
+  },
 ];
