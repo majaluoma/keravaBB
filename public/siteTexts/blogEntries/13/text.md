@@ -13,7 +13,7 @@ Sompion sopuleiden tähtipelaajia: Blitzer veljekset Räyskä "Myrsky" Myrskylä
 
 Ainut harmillinen sopuleiden uhri on Vinkku "Kipsi" Kippo. Jo avausottelussa hän mursi jalkansa epäonnisessa taklauksessa, mutta siitä huolimatta hänet on nähty lähes jokaisessa pelissä, milloin siteissä, milloin kainalosauvat kainalossa. “Ei tää mitään, jalka on vaan koriste. Kunhan pää kestää ja kynnet puree, niin kentälle mennään,” kommentoi Kipsi, nilkuttaen pois harjoituskentältä.
 
-![alt text](/siteTexts/blogEntries/13/image-2.jpeg)
+![alt text](/siteTexts/blogEntries/13/image-3.jpeg)
 
 | #  | Name   | Position       | MA | ST | AG | PA | AV | Skills                          | Hiring Fee | SPP | MNG | NI | TR | Current Value |
 |----|--------|----------------|----|----|----|----|----|---------------------------------|------------|-----|-----|----|----|---------------|
@@ -28,3 +28,4 @@ Björn nousi joukkueensa Blackbearsin johtotähdeksi jo heti ensimmäisessä lii
 | #  | Name  | Position | MA | ST | AG | PA | AV | Skills                      | Hiring Fee | SPP | MNG | NI | TR | Current Value |
 |----|-------|----------|----|----|----|----|----|-----------------------------|------------|-----|-----|----|----|---------------|
 | 7  | Björn | Catcher  | 8  | 2  | 3+ | 5+ | 8+ | Dodge, Catch, Sidestep, Dead | 65,000     | 0   |     |    |    | 75,000        |
+
