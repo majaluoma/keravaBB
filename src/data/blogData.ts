@@ -83,4 +83,11 @@ export const blogData = [
     date: new Date('2025-09-02'),
     labels: ['tähtipelaajaesittely'],
   },
+  {
+    id:14,
+    title: 'Giuseppe Seppäsen huhuttu shokkisiirto. ',
+    ingress: 'Giuseppe Seppäsen huhuttu shokkisiirto. ',
+    date: new Date('2025-09-03'),
+    labels: ['huhut'],
+  },
 ];
