@@ -33,7 +33,7 @@ Toimitukseen ilmiannon teki punaisen ristin rahankerääjä:
 **1.1.2026** alkaen Sinkassa pääsee tutustumaan *Egyptin mysteereihin* uudesta kuvakulmasta. Faaraot eivät ainoastaan rakentaneet pyramideja, vaan kehittivät myös omia pelejään.  
 
 Muinaisen Blood Bowlin arvellaan saaneen alkunsa juurikin Niilin rannoilla. Näyttelyä on kuvailtu kenties hieman liiankin eloisan oloiseksi.  
-
+![alt text]/siteTexts/blogEntries/15/sinkkamainos.jpg
 ---
 
 # Viestejä kaupunkilaisilta  
