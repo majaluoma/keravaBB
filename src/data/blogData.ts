@@ -94,7 +94,7 @@ export const blogData = [
     id:15,
     title: 'Bloodbowl Skandaaleja Keravalla! ',
     ingress: 'BB Uutiset',
-    date: new Date('2025-09-03'),
+    date: new Date('2025-09-04'),
     labels: ['huhut', 'skandaalit', 'uutiset'],
   },
 ];
