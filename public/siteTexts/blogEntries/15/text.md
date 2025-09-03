@@ -1,4 +1,4 @@
-# Stadium skandaali muhii Keravalla!  
+# Stadion skandaali muhii Keravalla!  
 
 Keravan kaupungin hallitus on tehnyt rohkean päätöksen: purettavan Anttilan kiinteistön tilalle nousee upouusi huippu moderni **Bloodbowl-stadioni**. Rakennustöiden on määrä alkaa tulevana perjantaina. Symbolisena eleenä hankkeen osapuolet kokoontuvat perjantaina seremonialliselle siipiaterialle.  
 
