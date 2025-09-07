@@ -1,17 +1,30 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille.
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
-Liigatilanne 2.9.2025
+Liigatilanne 7.9.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit | Kärsityt uhrit |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
-| 1. Keravan Punaiset      | Julle      | 16            | 4      | 2      | 0         | 8             | 6               | 17              | 8              |
-| 2. Blackbears            | Oona       | 14            | 4      | 0      | 1         | 10             | 4               | 7              | 12              |
-| 3. Kurkelan Kulmahampaat | Aleksi     | 14            | 4      | 2      | 0         | 9             | 4               | 7              | 13             |
-| 4. Keravan Juoksukaljat  | Olli       | 8            | 2      | 2      | 1         | 5             | 4               | 14              | 9              |
-| 5. Sompion Sopulit         | Teo        | 7            | 2      | 4      | 0         | 7             | 7               | 4              |11              |
-| 6. Ahjon Kahjot           | Tony       | 6            | 1      | 3      | 2         | 3             | 4               | 7              | 8              |
-| 7. Rappion Etujoukot     | Eve        | 3            | 0      | 4      | 2         | 3             | 7               | 12              | 6              |
+| 1. Keravan Punaiset      | Julle      | 16           | 4      | 2      | 0         | 8             | 6               | 17             | 8              |
+| 2. Blackbears            | Oona       | 14           | 4      | 1      | 1         | 10            | 6               | 8              | 15             |
+| 3. Kurkelan Kulmahampaat | Aleksi     | 14           | 4      | 2      | 0         | 9             | 4               | 7              | 13             |
+| 4. Keravan Juoksukaljat  | Olli       | 11           | 3      | 2      | 1         | 7             | 4               | 14             | 10             |
+| 5. Sompion Sopulit       | Teo        | 7            | 2      | 4      | 0         | 7             | 7               | 4              | 11             |
+| 6. Ahjon Kahjot          | Tony       | 6            | 1      | 3      | 2         | 3             | 4               | 7              | 8              |
+| 7. Rappion Etujoukot     | Eve        | 3            | 0      | 4      | 2         | 3             | 7               | 12             | 6              |
+
+
+### 6. kierros
+Kuudes kierros on käynnistynyt. Otteluparit on arvottu.
+Pelit tulee olla pelattu 28.9.2025 mennessä.
+
+|                  Ottelu               |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
+|---------------------------------------|------------|:-----:|--------------|:--------------:|
+| Keravan Juoksukaljat - Sompion Sopulit    | Olli - Teo     |  -  | -| - |
+| Keravan Punaiset - Kurkelan Kulmahampaat  | Julle - Aleksi | - | -| -|
+| Ahjon Kahjot - Rappion Etujoukot  | Tony - Eve |- |- |- |
+| Blackbears - Keravan Punaiset   | Oona - Julle | -   |- | - |
+
 
 ### 5. kierros
 Viides kierros on käynnistynyt. Otteluparit on arvottu.
@@ -19,7 +32,7 @@ Pelit tulee olla pelattu 31.8.2025 mennessä.
 
 |                  Ottelu                 |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
-| Keravan Juoksukaljat - Blackbears          | Olli - Oona  |  -  | -| - |
+| Keravan Juoksukaljat - Blackbears          | Olli - Oona  |  2 - 0  | 7.9, Tyrmä| 0 - 1 |
 | Keravan Punaiset - Ahjon Kahjot         | Julle - Tony   | 2  -   0   |27.8, Tyrmä| 2 - 0|
 | Ahjon Kahjot - Kurkelan Kulmahampaat | Tony - Aleksi | 1  - 0 |15.8, Tyrmä|0 - 0|
 | Rappion Etujoukot - Kurkelan Kulmahampaat   | Eve - Aleksi |   1 - 2    |31.8., Tyrmä| 5 - 0 |
