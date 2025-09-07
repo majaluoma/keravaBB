@@ -97,4 +97,11 @@ export const blogData = [
     date: new Date('2025-09-04'),
     labels: ['huhut', 'skandaalit', 'uutiset'],
   },
+      {
+    id:16,
+    title: 'Runkosarjan puolivälin tilastokatsaus',
+    ingress: 'BB Uutiset',
+    date: new Date('2025-09-08'),
+    labels: ['tilastokatsaus', 'uutiset'],
+  },
 ];
