@@ -13,6 +13,8 @@ Loukkaantumisilta ei ole vältytty! Joukkueet ovat kärsineet ja aiheuttaneet jo
 
 Liigassa on raportoitu toistaiseksi viisi kuolemaa, joista jokainen tapahtui joko joukkueiden ensimmäisessä tai toisessa ottelussa: nössöt ja heikot siis karsittiin pois heti alkumetreillä. Pysyvistä vammoista ei ole pidetty tarkkaa kirjaa, mutta kentällä on havaittu ainakin päävamma Blackbearsin joukkueessa, murtunut käsi Kurkelan Kulmahampaissa sekä murskaantunut polvi Sompion Sopuleissa. Kurkelan Kulmahampaiden omissa epävirallisissa tilastoissa todetaan, että vampyyripelaajat ovat loukkaantuessaan regeneroituneet 100 % todennäköisyydellä, joka on merkittävästi korkeampi kuin on odotusarvo (50 %). 
 
+![Kuvaaja 1](/siteTexts/blogEntries/16/TDCASgraph.png)
+
 ## Liigapisteet
 
 Liigapisteitä on kertynyt 0–4 per ottelu teoreettisen maksimin ollessa viisi pistettä. Liiga on selvästi painottunut enempi murjomiseen kuin palloiluun: maalinteon lisäpisteitä on ansaittu kolmesta ottelusta (1x Blackbears, 1x Sompion Sopulit, 1x Kurkelan Kulmahampaat), kun taas lisäpisteitä murjomisesta on kertynyt jopa seitsemästä ottelusta, joista neljässä asialla oli Keravan Punaiset. 
@@ -22,5 +24,7 @@ Runkosarjan ollessa puolivälissä sama kysymys on kaikkien huulilla; mitkä nel
 Joukkueille estimoitiin *maalintekovoima* (tähänastisten tehtyjen maalien keskiarvo per ottelu), *puolustusvoima* (tähänastisen päästettyjen maalien keskiarvo per ottelu) sekä *murjomisvoima* (tähänasti aiheutettujen loukkaantumisten keskiarvo per ottelu). Kaikkiin estimaatteihin lisättiin 0.05 vakio nollatodennäköisyyksien välttämiseksi.
 
 Runkosarjan toisen kierroksen ottelut simuloitiin arpomalla kokonaislukuja Poisson-jakaumista, joiden parametreihin hyödynnettiin laskettuja estimaatteja. Ottelukohtaisten maalien odotusarvoksi asetettiin maalintekovoiman ja vastustajan puolustusvoiman estimaattien geometrinen keskiarvo, ja aiheutettujen loukkaantumisten odotusarvoksi murjomisvoiman estimaatti. Simuloitujen maalien ja loukkaantumisten perusteella laskettiin simulaation liigapisteet. Simulaatioita toteutettiin yhteensä sata, joista tilastovelho ja ennustaja osoittivat todennäköisimmin toteutuvan skenaarion. Ennuste esitetään kuvaajassa 2; siitä voinee päätellä, että luvassa on tiukka liiga ja loppuotteluun pääsijät eivät ole vielä kiveen hakatut!
+
+![Kuvaaja 2](/siteTexts/blogEntries/16/liigaennuste.png)
 
 *Mahdolliset eturistiriidat: Katsauksessa hyödynnetty aineisto on saatu lahjoituksena Blackbearsin joukkueen päävalmentajalta.*
