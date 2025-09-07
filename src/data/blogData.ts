@@ -100,7 +100,7 @@ export const blogData = [
       {
     id:16,
     title: 'Runkosarjan puolivälin tilastokatsaus',
-    ingress: 'BB Uutiset',
+    ingress: 'Tilastokatsaus',
     date: new Date('2025-09-08'),
     labels: ['tilastokatsaus', 'uutiset'],
   },
