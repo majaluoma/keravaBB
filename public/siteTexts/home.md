@@ -1,17 +1,17 @@
-# Tervetuloa Keravan Blood Bowl -liigan kotisivuille.
+# Tervetuloa Keravan Blood Bowl -liigan kotisivuille
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
 Liigatilanne 7.9.2025
 
-| Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit | Kärsityt uhrit |
+| Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit (SPP) | Kärsityt uhrit (SPP) |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
-| 1. Keravan Punaiset      | Julle      | 16           | 4      | 2      | 0         | 8             | 6               | 17             | 8              |
-| 2. Blackbears            | Oona       | 14           | 4      | 1      | 1         | 10            | 6               | 8              | 15             |
-| 3. Kurkelan Kulmahampaat | Aleksi     | 14           | 4      | 2      | 0         | 9             | 4               | 7              | 13             |
-| 4. Keravan Juoksukaljat  | Olli       | 11           | 3      | 2      | 1         | 7             | 4               | 14             | 10             |
-| 5. Sompion Sopulit       | Teo        | 7            | 2      | 4      | 0         | 7             | 7               | 4              | 11             |
-| 6. Ahjon Kahjot          | Tony       | 6            | 1      | 3      | 2         | 3             | 4               | 7              | 8              |
-| 7. Rappion Etujoukot     | Eve        | 3            | 0      | 4      | 2         | 3             | 7               | 12             | 6              |
+| 1. Keravan Punaiset      | Julle      | 16           | 4      | 2      | 0         | 8             | 6               | 16             | 7              |
+| 2. Blackbears            | Oona       | 14           | 4      | 1      | 1         | 10            | 6               | 7              | 10             |
+| 3. Kurkelan Kulmahampaat | Aleksi     | 14           | 4      | 2      | 0         | 9             | 4               | 7              | 10             |
+| 4. Keravan Juoksukaljat  | Olli       | 11           | 3      | 2      | 1         | 7             | 4               | 10             | 9              |
+| 5. Sompion Sopulit       | Teo        | 7            | 2      | 4      | 0         | 7             | 7               | 4              | 10             |
+| 6. Ahjon Kahjot          | Tony       | 6            | 1      | 3      | 2         | 3             | 4               | 6              | 8              |
+| 7. Rappion Etujoukot     | Eve        | 3            | 0      | 4      | 2         | 3             | 7               | 10             | 6              |
 
 
 ### 6. kierros
