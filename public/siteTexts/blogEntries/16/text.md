@@ -21,7 +21,7 @@ Liigapisteitä on kertynyt 0–4 per ottelu teoreettisen maksimin ollessa viisi 
 
 Runkosarjan ollessa puolivälissä sama kysymys on kaikkien huulilla; mitkä neljä joukkuetta pääsevät loppuotteluihin?  Vastataksemme tähän kysymykseen laadimme liigapisteiden ennusteen.
 
-Joukkueille estimoitiin *maalintekovoima* (tähänastisten tehtyjen maalien keskiarvo per ottelu), *puolustusvoima* (tähänastisen päästettyjen maalien keskiarvo per ottelu) sekä *murjomisvoima* (tähänasti aiheutettujen loukkaantumisten keskiarvo per ottelu). Kaikkiin estimaatteihin lisättiin 0.05 vakio nollatodennäköisyyksien välttämiseksi.
+Joukkueille estimoitiin *maalintekovoima* (tähänastisten tehtyjen maalien keskiarvo per ottelu), *puolustusvoima* (tähänastisen päästettyjen maalien keskiarvo per ottelu) sekä *murjomisvoima* (tähänasti aiheutettujen loukkaantumisten keskiarvo per ottelu). Mikäli estimaatti oli tasan 0, se muutettiin arvoksi 0.05 varianssin takaamiseksi.
 
 Runkosarjan toisen kierroksen ottelut simuloitiin arpomalla kokonaislukuja Poisson-jakaumista, joiden parametreihin hyödynnettiin laskettuja estimaatteja. Ottelukohtaisten maalien odotusarvoksi asetettiin maalintekovoiman ja vastustajan puolustusvoiman estimaattien geometrinen keskiarvo, ja aiheutettujen loukkaantumisten odotusarvoksi murjomisvoiman estimaatti. Simuloitujen maalien ja loukkaantumisten perusteella laskettiin simulaation liigapisteet. Simulaatioita toteutettiin yhteensä sata, joista tilastovelho ja ennustaja osoittivat todennäköisimmin toteutuvan skenaarion. Ennuste esitetään kuvaajassa 2; siitä voinee päätellä, että luvassa on tiukka liiga ja loppuotteluun pääsijät eivät ole vielä kiveen hakatut!
 
