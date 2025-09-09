@@ -108,7 +108,7 @@ export const blogData = [
     id:17,
     title: 'Joukkue-esittely: Ahjon kahjot',
     ingress: 'joukkoe-esittely',
-    date: new Date('2025-09-08'),
+    date: new Date('2025-09-09'),
     labels: ['tiimit', 'ahjon kahjot'],
   },
 ];

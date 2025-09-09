@@ -17,7 +17,7 @@ const sortBlogsByTime = (a: (typeof blogData)[0], b: (typeof blogData)[0]) => {
 
 export default function Blog({ single, batch }: Readonly<BlockProps>) {
   const { id, year } = useParams();
-  const [blogPosts, setBlogPosts] = useState(blogData.sort(sortBlogsByTime));
+  const [blogPosts, setBlogPosts] = useState(blogData.sort(sortBlogsByTime).slice(0, 10));
 
   useEffect(() => {
     if (single) {
