@@ -111,4 +111,11 @@ export const blogData = [
     date: new Date('2025-09-09'),
     labels: ['tiimit', 'ahjon kahjot'],
   },
+      {
+    id:18,
+    title: 'Uudet pelaajatulokkaat siivittävät liigan uuteen kierrokseen!',
+    ingress: 'tähtipelaajaesittely',
+    date: new Date('2025-09-12'),
+    labels: ['tähtipelaajaesittely'],
+  },
 ];
