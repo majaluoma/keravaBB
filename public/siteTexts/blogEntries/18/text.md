@@ -1,6 +1,6 @@
 # Uudet pelaajatulokkaat siivittävät liigan uuteen kierrokseen!
 
-Tässä artikkelissa esitellään muutama uusi pelaaja joukkueista, jotka ovat liittyneet mukaan peleihin viime kierroksen aikana.
+Tässä artikkelissa esitellään muutama uusi pelaaja, jotka ovat liittyneet mukaan peleihin viime kierroksen aikana.
 
 Kurkelan Kulmahampaat päättivät herättää henkiin sirkus Sariolan legendan: virtahepo Hummelin. Kallis operaatio vaati suden DNA:n yhdistämistä jo pahasti maatuneiden jäännösten jatkeeksi. Hurja peto sai yleisön ensin haukkomaan henkeään, ja tarjoilikin faneille varsinaisen sirkus esityksen.. valitettavasti pellen roolissa. Kömpelö otus kompuroi kolme kertaa peräkkäin itsensä kumoon taklatessaan itseään puolta pienempää vastustajaa.   Kulmahampaiden valmentaja vakuuttaa, että kyse oli vain hermoilusta, mutta fanit nimesivät Hummelin jo "Mummeliksi".
 
@@ -32,3 +32,4 @@ Pallo herposi hänen käsistään ei vain kerran, kaksi, vaan KOLME kertaa sitä
 ![alt text](/siteTexts/blogEntries/18/image-3.jpeg)
 
 ![alt text](/siteTexts/blogEntries/18/image-4.jpeg)
+
