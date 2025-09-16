@@ -10,11 +10,11 @@
 #### Roster Summary
 **Blackbears**
 * 4x Human Blitzer (380 000)
-    * 2 x Guard
-    * 1 x MNG
+    * 2x Guard
+    * 1x MNG
 * 4x Human Lineman (210 000)
     * Shadowing
-* 2x Human Catcher (170 000)
+* 3x Human Catcher (170 000)
     * Diving Catch, Block
 * Human Thrower (120 000)
     * Dump-off, Nerves Of Steel
