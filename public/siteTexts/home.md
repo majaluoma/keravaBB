@@ -9,9 +9,10 @@ Liigatilanne 16.9.2025
 | 2. Keravan Punaiset      | Julle      | 16           | 4      | 3      | 0         | 8             | 8               | 17             | 9              |
 | 3. Keravan Juoksukaljat  | Olli       | 15           | 4      | 2      | 1         | 9             | 4               | 13             | 11             |
 | 4. Blackbears            | Oona       | 14           | 4      | 1      | 1         | 10            | 6               | 7              | 10             |
-| 5. Sompion Sopulit       | Teo        | 7            | 2      | 5      | 0         | 7             | 9               | 6              | 13             |
-| 6. Ahjon Kahjot          | Tony       | 6            | 1      | 3      | 2         | 3             | 4               | 6              | 8              |
-| 7. Rappion Etujoukot     | Eve        | 3            | 0      | 4      | 2         | 3             | 7               | 10             | 6              |
+| 5. Rappion Etujoukot     | Eve        | 8            | 1      | 4      | 2         | 6             | 7               | 13             | 6              |
+| 6. Sompion Sopulit       | Teo        | 7            | 2      | 5      | 0         | 7             | 9               | 6              | 13             |
+| 7. Ahjon Kahjot          | Tony       | 6            | 1      | 4      | 2         | 3             | 7               | 6              | 11             |
+
 
 
 ### 6. kierros
@@ -22,7 +23,7 @@ Pelit tulee olla pelattu 28.9.2025 mennessä.
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
 | Keravan Juoksukaljat - Sompion Sopulit    | Olli - Teo     |  2 - 0  | 14.9, Tyrmä | 3 - 2 |
 | Keravan Punaiset - Kurkelan Kulmahampaat  | Julle - Aleksi | 0 - 2 | 16.9, Tyrmä| 1 - 2 |
-| Ahjon Kahjot - Rappion Etujoukot  | Tony - Eve | - | 21.9, Tyrmä |- |
+| Ahjon Kahjot - Rappion Etujoukot  | Tony - Eve | 0 - 3 | 21.9, Tyrmä | 0 - 3 |
 | Blackbears - Keravan Punaiset   | Oona - Julle | -   | 23.9, Tyrmä | - |
 
 
