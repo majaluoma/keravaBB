@@ -12,6 +12,8 @@ Nämä kysymykset ovat saaneet aikaan internet kampanjan #paljastakaaposket, jos
 
 Varmaa on, että joukkueenjohto oli vaikuttunut Pylly Aleksin kivenkovasta otteesta, ja maailmanluokan gluteus maximuksista, joten he siltä seisomalta päättivät erottaa joukkueesta Tony Halmeen, joka oli kärsinyt viime ottelussa vakavan vammman, ja joutunut lopettamaan testosteronikuurinsa. Kun Halme sai kuulla tästä, katosi hän ilmaan, ja joukkuejohto muisti että hänhän oli kuollut jo viisitoista vuotta sitten.
 
+Toimitus ei ole toistaiseksi tavoittanut Aleksia kommentoimaan huhuja.
+
 **Raimo Vaahtopää**
 
 Myös joukkueen alkuperäisjäsenistöön kuuluva, konkari Raimo Vaahtopää sai lähtöpassit joukkueesta. Raimon asenneongelmat, ja tulehtuneet välit joukkueen potkaisijaa, ja ex-vaimoaan Iina Vaahtoparta-Ipaa kohtaan ovat hiertäneet joukkueen yhteishenkeä jo alkukaudesta lähtien. Jo ensimmäisten pelien jälkeen, kuullessaan Ipan pestistä joukkueen potkaisijana, on hänen kerrottu todenneen "No kyllä minäkin!", ja alkaneen opettelemaan potkaisutaitoja, luoden tarpeettoman kilpailuasetelman tiimin sisällä. Tähän asti päävalmentaja Julius Alenius on pitänyt Vaahtopartaa joukkueessa, sillä hän on "Hyvä äijä". Vaahtoparran korvaa linjamies Simo Sima.
