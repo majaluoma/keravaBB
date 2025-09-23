@@ -5,7 +5,7 @@ Olemmekin jo saaneet tietää ensimmäisistä pelaajavaihdoksista, joiden tarkoi
 
 **Pylly Aleksi korvaa Tony Halmeen**
 
-![alt text](/siteTexts/blogEntries/19/pyllyaleksi.JPG)
+![alt text](/siteTexts/blogEntries/19/pyllyaleksi2.jpg)
 
 Kenties eriskummallisin ja hämmentävin siirto tapahtui, kun kesken joukkuejohdon hätäkokouksen, Kurkelan Kulmahampaiden päävalmentaja Aleksi rysäytti muhkealla perällään toimiston oven saranoiltaan, ja julisti teatraalisesti tulleensa pelastamaan joukkueen. Vai oliko se sittenkään kaikkien tuntema valmentaja, vai kenties taas yksi kulmahampaiden katalista juonista, jonkinlainen klooni, tai sattumalta täysin identtinen henkilö? Emme kenties koskaan saa tietää, mutta mysteeri on jo saanut internetin kuohumaan. Miksi Aleksi on päättänyt tulla pelaamaan kilpailevaan joukkueeseen kesken kauden? Entä onko kukaan nähnyt Pylly Aleksia, ja Aleksia samassa huoneessa samaan aikaan? Entä heidän pakaroitaan? Miksi Kulmahampaiden Aleksi piilottelee persposkiaan julkisesti? 
 Nämä kysymykset ovat saaneet aikaan internet kampanjan #paljastakaaposket, jossa Blood Bowl fanit vaativat Kulmahampaiden Aleksia paljastamaan takapuolensa.
