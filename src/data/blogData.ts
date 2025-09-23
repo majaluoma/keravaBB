@@ -124,6 +124,6 @@ export const blogData = [
     title: 'Kova siirto Punaisilta!',
     ingress: 'BB Uutiset',
     date: new Date('2025-09-23'),
-    labels: ['BB Uutiset'],
+    labels: ['uutiset', 'tiimit'],
   },
 ];
