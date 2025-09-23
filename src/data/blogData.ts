@@ -120,7 +120,7 @@ export const blogData = [
     labels: ['tähtipelaajaesittely'],
   },
   {
-    id:19,
+    id:20,
     title: 'Kova siirto Punaisilta!',
     ingress: 'BB Uutiset',
     date: new Date('2025-09-23'),
