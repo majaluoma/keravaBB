@@ -1,19 +1,30 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
-Liigatilanne 16.9.2025
+Liigatilanne 23.9.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit (SPP) | Kärsityt uhrit (SPP) |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
-| 1. Kurkelan Kulmahampaat | Aleksi     | 17           | 5      | 2      | 0         | 11            | 4               | 9              | 11             |
-| 2. Keravan Punaiset      | Julle      | 16           | 4      | 3      | 0         | 8             | 8               | 17             | 9              |
-| 3. Keravan Juoksukaljat  | Olli       | 15           | 4      | 2      | 1         | 9             | 4               | 13             | 11             |
-| 4. Blackbears            | Oona       | 14           | 4      | 1      | 1         | 10            | 6               | 7              | 10             |
+| 1. Blackbears            | Oona       | 18           | 5      | 1      | 1         | 12            | 6               | 10             | 11             |
+| 2. Kurkelan Kulmahampaat | Aleksi     | 17           | 5      | 2      | 0         | 11            | 4               | 9              | 11             |
+| 3. Keravan Punaiset      | Julle      | 16           | 4      | 4      | 0         | 8             | 10              | 18             | 12             |
+| 4. Keravan Juoksukaljat  | Olli       | 15           | 4      | 2      | 1         | 9             | 4               | 13             | 11             |
 | 5. Rappion Etujoukot     | Eve        | 8            | 1      | 4      | 2         | 6             | 7               | 13             | 6              |
 | 6. Sompion Sopulit       | Teo        | 7            | 2      | 5      | 0         | 7             | 9               | 6              | 13             |
 | 7. Ahjon Kahjot          | Tony       | 6            | 1      | 4      | 2         | 3             | 7               | 6              | 11             |
 
 
+
+### 7. kierros
+Seitsemäs kierros on käynnistynyt. Otteluparit on arvottu.
+Pelit tulee olla pelattu 15.10.2025 mennessä.
+
+|                  Ottelu               |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
+|---------------------------------------|------------|:-----:|--------------|:--------------:|
+| Keravan Punaiset - Sompion Sopulit    | Julle - Teo  |  -   | - | - |
+| Keravan Juoksukaljat - Rappion Etujoukot  | Olli - Eve | -  | - | - |
+| Ahjon Kahjot - Keravan Juoksukaljat  | Tony - Olli   | - | - | - |
+| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi | -   | - | - |
 
 ### 6. kierros
 Kuudes kierros on käynnistynyt. Otteluparit on arvottu.
@@ -24,7 +35,7 @@ Pelit tulee olla pelattu 28.9.2025 mennessä.
 | Keravan Juoksukaljat - Sompion Sopulit    | Olli - Teo     |  2 - 0  | 14.9, Tyrmä | 3 - 2 |
 | Keravan Punaiset - Kurkelan Kulmahampaat  | Julle - Aleksi | 0 - 2 | 16.9, Tyrmä| 1 - 2 |
 | Ahjon Kahjot - Rappion Etujoukot  | Tony - Eve | 0 - 3 | 21.9, Tyrmä | 0 - 3 |
-| Blackbears - Keravan Punaiset   | Oona - Julle | -   | 23.9, Tyrmä | - |
+| Blackbears - Keravan Punaiset   | Oona - Julle | 2 - 0   | 23.9, Tyrmä | 3 - 1 |
 
 
 ### 5. kierros
@@ -62,7 +73,7 @@ Pelit tulee olla pelattu 3.8.2025 mennessä.
 | Keravan Juoksukaljat - Ahjon Kahjot | Olli - Tony   |  2 - 0  | Tyrmä | 2 - 1 |
 | Sompion Sopulit - Rappion Etujoukot | Teo - Eve   | 2 - 1 | Tyrmä | 0 - 0 |
 | Sompion Sopulit - Keravan Punaiset | Teo - Julle |  0 - 1  | Tyrmä | 0 - 4 |
-| Blackbears - Kurkelan Kulmahampaat | Oona - Aleksi | 2 - 1 | Kreivi Sariolan yksityinen BB Arena |  1 - 1 |
+| Blackbears - Kurkelan Kulmahampaat | Oona - Aleksi | 2 - 1 | Kreivi Sariolan yksityinen BB Arena | 1 - 1 |
 
 
 ### 2. kierros
