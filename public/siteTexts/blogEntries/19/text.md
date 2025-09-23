@@ -3,7 +3,7 @@
 Keravan Punaiset otti Yhteen Kurkelan Kulmahampaiden kanssa, ja tätä ennen liigaykkösenä olleille Punaisille, oli revanssi taas keran nöyryyttävä tappio. Suurien odotuksien myötä kiinnitetty Giuseppe "Il Seppo" Seppänen, Italiansuomalainen kokenut jalkapallovalmentaja ei ole vakuuttanut toiminnallaan. Huhutaan, että kentän laidalla oli seuraamassa erään paikallisen virvoitusjuomatehtaan markkinointiväkeä, joten tappio oli Punaisille erityisen karvas. Siitä syystä Il Seppo onkin kutsunut joukkueen johtoportaan sekä sponsorien edustajat hätäkokoukseen selvittämään joukkueen tilaa, sekä aloittamaan YT-neuvottelut Pelaajaorganisaatiossa.
 Olemmekin jo saaneet tietää ensimmäisistä pelaajavaihdoksista, joiden tarkoitus on potkia pois alisuoriutuvaa ainesta, ja tasapainottaa joukkueen taloutta.
 
-# Pylly Aleksi korvaa Tony Halmeen
+**Pylly Aleksi korvaa Tony Halmeen**
 
 ![alt text](public/siteTexts/blogEntries/19/IMG-20250917-WA0025[1].JPG)
 
