@@ -5,15 +5,16 @@
 
 *Valmentaja: Oona, Roster: Human*
 
-[Blackbears BB Roster](https://bbroster.com?code=t9t70m0f0y1d5r4p42n1v20e53a1p42s1p42c00000e53n1a1v20p42s2m1p39s2p39i00001p41s4p41s1a2v40e2.13p41x12p39a1x9e20v10p39x10s2p40x11s1e40.44v40a2p5v20a1s2e50IBlackbears:Orson:Nalle:Mischa:Bamse:Teddy:Winnie:Bj%C3%B6rn%20II:Bernard:Paddington:Baloo:Koda:Ursula:Wojtek)
+[Blackbears BB Roster](https://bbroster.com?code=t9t150m0f0d5y1r4p42v20e53a1m1n2p42s1p42e53v20n1a1c00000p42s2p39a1v20e18p39s2i00001p41s4p41s4v40a2e2.13p39v10a1s2e20p39s2p40a2v40e40.44s4p5a1s4x13v20e50p41x12IBlackbears:Orson:Nalle:Mischa:Bamse:Teddy:Winnie:Bj%C3%B6rn%20II:Bernard:Baloo:Koda:Ursula:Wojtek:Paddington)
 
 #### Roster Summary
 **Blackbears**
 * 4x Human Blitzer (380 000)
     * 2x Guard
-    * 1x MNG
+       * 1x MNG
 * 4x Human Lineman (210 000)
     * Shadowing
+    * Kick
 * 3x Human Catcher (170 000)
     * Diving Catch, Block
 * Human Thrower (120 000)
@@ -24,4 +25,4 @@
 **Extras**
 4x Rerolls, 5x Dedicated Fans, Apothecary
 
-**CTV: 1 270 000, Roster Total: 1 350 000**
+**CTV: 1 270 000, Roster Total: 1 375 000**
