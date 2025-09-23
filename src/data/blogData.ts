@@ -48,6 +48,7 @@ export const blogData = [
     date: new Date('2025-07-12'),
     labels: ['tiimit', 'sompion sopulit'],
   },
+  
   {
     id:8,
     title: 'Lahjontaa ja venäläisiä bottifaneja – Keravan Blood Bowl -liigassa tapahtuu kummia',
@@ -117,5 +118,12 @@ export const blogData = [
     ingress: 'tähtipelaajaesittely',
     date: new Date('2025-09-12'),
     labels: ['tähtipelaajaesittely'],
+  },
+      {
+    id:19,
+    title: 'Kova siirto Punaisilta!',
+    ingress: 'BB Uutiset',
+    date: new Date('2025-09-23'),
+    labels: ['BB Uutiset'],
   },
 ];
