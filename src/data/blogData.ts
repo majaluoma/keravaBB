@@ -66,7 +66,7 @@ export const blogData = [
   {
     id:10,
     title: '"Ei voi olla vaikeeta" - Blood Bowl -valmentaja luottaa vaistoon, väkivaltaan ja mallasnektariin',
-    ingress: 'KEravan punaisten valmentajan haastattelu',
+    ingress: 'Keravan punaisten valmentajan haastattelu',
     date: new Date('2025-08-10'),
     labels: ['haastattelut', 'keravan punaiset', 'valmentajat'],
   },
@@ -108,7 +108,7 @@ export const blogData = [
       {
     id:17,
     title: 'Joukkue-esittely: Ahjon kahjot',
-    ingress: 'joukkoe-esittely',
+    ingress: 'joukkue-esittely',
     date: new Date('2025-09-09'),
     labels: ['tiimit', 'ahjon kahjot'],
   },
@@ -125,6 +125,13 @@ export const blogData = [
     ingress: 'BB Uutiset',
     date: new Date('2025-09-23'),
     labels: ['uutiset', 'tiimit', 'huhut', 'Keravan Punaiset'],
+  },
+  {
+    id:21,
+    title: 'Huhupuheilla perää: Keravalla toinenkin paikallisliiga',
+    ingress: 'Keravalla toinenkin paikallisliiga',
+    date: new Date('2025-09-24'),
+    labels: ['uutiset', 'huhut', 'haastattelut'],
   },
   {
     id:22,
