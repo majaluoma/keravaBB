@@ -1,11 +1,8 @@
-#### Toinen Blood Bowl -liiga käynnistyy Keravalla ####
+#### Huhupuheilla perää: Keravalla toinenkin paikallisliiga ####
 
-**Keravan kirjaston Onnilassa** on pyörinyt huhupuheita toisesta Blood Bowlin paikallisliigasta, ja toimittajamme lähti selvittämään asiaa.
-Tavoitimme kyseiseen mysteeriliigaan osallistuvan örkkijoukkueen päävalmentajan, joka paljasti kyseessä olevan *Klondyke Bowl*. Klondyke Bowlin kotipesä sijaitsee Saviolla, ja siinä kilpailee kuusi joukkuetta.
-Liigan avausotteluita käydään paraikaa.
+**Keravan kirjaston Onnilassa** on pyörinyt huhupuheita toisesta Blood Bowlin paikallisliigasta, ja toimittajamme Sara Kuhlainen lähti selvittämään asiaa.
+Tavoitimme kyseiseen mysteeriliigaan osallistuvan örkkijoukkueen päävalmentajan, joka paljasti kyseessä olevan *Klondyke Bowl*. Lisäksi hän kertoo, että Klondyke Bowlin kotikenttä sijaitsee Keravantien toisella puolella Saviolla, ja että kuusi joukkuetta sisältävän liigan avausotteluita käydään paraikaa. Viralliseksi haastateltavaksi hän suosittelee Klondyke Bowlin liigakomissaaria, jonka nimi kuitenkin lipsahti toimituksen mielestä.
 
-Kerava Cupin osallistujajoukkueiden valmentajat suhtautuvat tietoon kilpailevasta liigasta vaihtelevasti. Nimettömänä pysyvä valmentaja kommentoi, että kyseessä lienee "varmaan jonkin sortin Ö divarin höntsäilijöitä." Kaikki
-eivät kuitenkaan ole näin ylimielisiä, vaan yleinen suhtautuminen on terveen kilpailuhenkinen. Toimituksenkin korviin on kantautunut, että Klondyke Bowlin osallistujajoukkueiden valmentajakaartissa olisi hyvinkin kokeneita konkareita.
+Kerava Cupin osallistujajoukkueiden valmentajat suhtautuvat tietoon kilpailevasta liigasta vaihtelevasti. Nimettömänä pysyvä terävähampainen valmentaja kommentoi, että kyseessä lienee "varmaan jonkin sortin Ö divarin höntsäilijöitä." Toimituksen korviin on kuitenkin kantautunut, että Klondyke Bowlin osallistujajoukkueiden valmentajakaartissa olisi hyvinkin kokeneita, paikallisia konkareita. Toinen nimettömänä pysyvä valmentaja pohtii, että onkohan kyseessä "kommariliiga". Kolmas valmentaja korjaa, että liigassa ei liene kommareita, vaan hevareita. Ehkä.
 
-Toisen liigan ilmestyminen näin pieneen kaupunkiin kuitenkin herättää kysymyksen; mikä on Keravan kaikkien aikojen paras Bloow Bowl -joukkue? Liigat pyörivät itsenäisesti omilla puolillaan Keravantietä, mutta ultimaattisen voittajan
-löytämiseksi on jo kaavailtu Keravan Mestarien Turnaus 2026 -tapahtuman järjestämistä. Toimitus jää seuraamaan tilannetta.
+Kaikki eivät kuitenkaan ole näin ylimielisiä taikka ennakkoluuloisia, vaan suhtautuminen on terveen kilpailuhenkistä. Toisen liigan ilmestyminen näin pieneen kaupunkiin herättää luonnollisesti kysymyksiä; kumpi liiga on parempi, ja mikä on Keravan kaikkien aikojen paras Bloow Bowl -joukkue? Ultimaattisen voittajan löytämiseksi on jo kaavailtu Keravan Mestarien Turnausta 2026. Toimitus jää seuraamaan tilannetta.
