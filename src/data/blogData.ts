@@ -126,4 +126,11 @@ export const blogData = [
     date: new Date('2025-09-23'),
     labels: ['uutiset', 'tiimit', 'huhut', 'Keravan Punaiset'],
   },
+  {
+    id:22,
+    title: ' Joukkueiden ulkopuoliset paikkaajat epäonnistuneet täyttämään lupauksiaan seitsemännessä kierroksessa',
+    ingress: 'BB Uutiset',
+    date: new Date('2025-09-24'),
+    labels: ['ottelut', 'kierroksen katsaus'],
+  },
 ];
