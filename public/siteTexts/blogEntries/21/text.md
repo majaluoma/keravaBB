@@ -1,4 +1,4 @@
-#### Huhupuheilla perää: Keravalla toinenkin paikallisliiga ####
+# Huhupuheilla perää: Keravalla toinenkin paikallisliiga #
 
 **Keravan kirjaston Onnilassa** on pyörinyt huhupuheita toisesta Blood Bowlin paikallisliigasta, ja toimittajamme Sara Kuhlainen lähti selvittämään asiaa.
 Tavoitimme kyseiseen mysteeriliigaan osallistuvan örkkijoukkueen päävalmentajan, joka paljasti kyseessä olevan *Klondyke Bowl*. Lisäksi hän kertoo, että Klondyke Bowlin kotikenttä sijaitsee Keravantien toisella puolella Saviolla, ja että kuusi joukkuetta sisältävän liigan avausotteluita käydään paraikaa. Viralliseksi haastateltavaksi hän suosittelee Klondyke Bowlin liigakomissaaria, jonka nimi kuitenkin lipsahti toimituksen mielestä.
