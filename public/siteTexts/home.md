@@ -22,9 +22,9 @@ Pelit tulee olla pelattu 15.10.2025 mennessä.
 |                  Ottelu               |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
 | Keravan Punaiset - Sompion Sopulit    | Julle - Teo  |  -   | - | - |
-| Keravan Juoksukaljat - Rappion Etujoukot  | Olli - Eve | -  | - | - |
-| Ahjon Kahjot - Keravan Juoksukaljat  | Tony - Olli   | - | - | - |
-| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi | -   | - | - |
+| Keravan Juoksukaljat - Rappion Etujoukot  | Olli - Eve | -  | 7.10, Tyrmä | - |
+| Ahjon Kahjot - Keravan Juoksukaljat  | Tony - Olli   | - | 1.10, Tyrmä | - |
+| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi | -   | Kreivi Sariolan yksityinen BB Arena | - |
 
 ### 6. kierros
 Kuudes kierros on käynnistynyt. Otteluparit on arvottu.
