@@ -5,8 +5,8 @@ Liigatilanne 23.9.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit (SPP) | Kärsityt uhrit (SPP) |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
-| 1. Blackbears            | Oona       | 18           | 5      | 1      | 1         | 12            | 6               | 10             | 11             |
-| 2. Kurkelan Kulmahampaat | Aleksi     | 17           | 5      | 2      | 0         | 11            | 4               | 9              | 11             |
+| 1. Kurkelan Kulmahampaat | Aleksi     | 20           | 6      | 2      | 0         | 13            | 5               | 10             | 13             |
+| 2. Blackbears            | Oona       | 18           | 5      | 2      | 1         | 13            | 8               | 12             | 12             |
 | 3. Keravan Punaiset      | Julle      | 16           | 4      | 4      | 0         | 8             | 10              | 18             | 12             |
 | 4. Keravan Juoksukaljat  | Olli       | 15           | 4      | 2      | 1         | 9             | 4               | 13             | 11             |
 | 5. Rappion Etujoukot     | Eve        | 8            | 1      | 4      | 2         | 6             | 7               | 13             | 6              |
@@ -24,7 +24,7 @@ Pelit tulee olla pelattu 15.10.2025 mennessä.
 | Keravan Punaiset - Sompion Sopulit    | Julle - Teo  |  -   | - | - |
 | Keravan Juoksukaljat - Rappion Etujoukot  | Olli - Eve | -  | 7.10, Tyrmä | - |
 | Ahjon Kahjot - Keravan Juoksukaljat  | Tony - Olli   | - | 1.10, Tyrmä | - |
-| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi | -   | Kreivi Sariolan yksityinen BB Arena | - |
+| Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi | 1 - 2 | 29.9, Kreivi Sariolan yksityinen BB Arena | 2 - 1 |
 
 ### 6. kierros
 Kuudes kierros on käynnistynyt. Otteluparit on arvottu.
