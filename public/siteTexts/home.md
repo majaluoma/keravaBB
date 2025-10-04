@@ -1,7 +1,7 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
-Liigatilanne 23.9.2025
+Liigatilanne 3.10.2025
 
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit (SPP) | Kärsityt uhrit (SPP) |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
