@@ -100,3 +100,18 @@ Näyttää tältä:
 > Tämä on lainattu teksti
 ```
 > Tämä on lainattu teksti
+
+
+## 💬 Taulukon lisääminen Googlesta
+Saat upotettavan koodin Google Sheet taulukkoon ohjelmasta luomalla taulukon ja 
+File --> Share --> Publish to Web --> Embed. 
+Kyseinen esimerkkitaulukko [löytyy täältä](https://docs.google.com/spreadsheets/d/1BqWtIgJZE86qgr2hbAqpwsFPs6PCRt-Lqk8Ewxl_ncw/edit?usp=sharing). 
+Sovita taulukon korkeus halutuksi muuttamalla height-ominaisuutta.
+```md 
+<div class="iframe-container" style="height: 35vh">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNS2xKF00W3nxP_4yqA9EC7FZ8w_44_YBejTEyIOYrL674uHvkP68MqWGtfxKzYOe8vP9_WSzmQNV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</div>
+```
+<div class="iframe-container" style="height: 35vh">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtNS2xKF00W3nxP_4yqA9EC7FZ8w_44_YBejTEyIOYrL674uHvkP68MqWGtfxKzYOe8vP9_WSzmQNV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</div>

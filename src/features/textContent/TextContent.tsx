@@ -2,6 +2,7 @@ import Markdown from 'react-markdown';
 import { useEffect, useState } from 'react';
 import './markdown.css';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 
 /** Used in text-based sites to show markdown files as html
  * @param markdownFile path to md-file
@@ -23,7 +24,7 @@ export default function TextContent({
   //Custom styles in markdown.css -file
   return (
     <div className={'markdown prose'} >
-      <Markdown remarkPlugins={[remarkGfm]}>{text}</Markdown>
+      <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>{text}</Markdown>
     </div>
   );
 }
