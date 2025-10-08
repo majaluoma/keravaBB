@@ -6,10 +6,10 @@ Liigatilanne 3.10.2025
 | Joukkue                  | Valmentaja | Liigapisteet | Voitot | Häviöt | Tasapelit | Tehdyt Maalit | Kärsityt Maalit | Tuotetut uhrit (SPP) | Kärsityt uhrit (SPP) |
 |--------------------------|------------|--------------|--------|--------|-----------|---------------|-----------------|----------------|----------------|
 | 1. Kurkelan Kulmahampaat | Aleksi     | 20           | 6      | 2      | 0         | 13            | 5               | 10             | 13             |
-| 2. Keravan Juoksukaljat  | Olli       | 20           | 5      | 2      | 1         | 12            | 4               | 16             | 12             |
+| 2. Keravan Juoksukaljat  | Olli       | 20           | 5      | 3      | 1         | 13            | 6               | 17             | 13             |
 | 3. Blackbears            | Oona       | 18           | 5      | 2      | 1         | 13            | 8               | 12             | 12             |
 | 4. Keravan Punaiset      | Julle      | 16           | 4      | 4      | 0         | 8             | 10              | 18             | 12             |
-| 5. Rappion Etujoukot     | Eve        | 8            | 1      | 4      | 2         | 6             | 7               | 13             | 6              |
+| 5. Rappion Etujoukot     | Eve        | 11           | 2      | 4      | 2         | 8             | 8               | 14             | 7              |
 | 6. Sompion Sopulit       | Teo        | 7            | 2      | 5      | 0         | 7             | 9               | 6              | 13             |
 | 7. Ahjon Kahjot          | Tony       | 6            | 1      | 5      | 2         | 3             | 10              | 7              | 14             |
 
@@ -25,7 +25,7 @@ Pelit tulee olla pelattu 15.10.2025 mennessä.
 |                  Ottelu               |  Valmentajat | Tulos | Aika ja Paikka | Tuotetut uhrit (SPP) |
 |---------------------------------------|------------|:-----:|--------------|:--------------:|
 | Keravan Punaiset - Sompion Sopulit    | Julle - Teo  |  -   | - | - |
-| Keravan Juoksukaljat - Rappion Etujoukot  | Olli - Eve | -  | 7.10, Tyrmä | - |
+| Keravan Juoksukaljat - Rappion Etujoukot  | Olli - Eve | 1 - 2 | 7.10, Tyrmä | 1 - 1  |
 | Ahjon Kahjot - Keravan Juoksukaljat  | Tony - Olli   | 0 - 3 | 1.10, Tyrmä | 1 - 3 |
 | Blackbears - Kurkelan Kulmahampaat   | Oona - Aleksi | 1 - 2 | 29.9, Kreivi Sariolan yksityinen BB Arena | 2 - 1 |
 
