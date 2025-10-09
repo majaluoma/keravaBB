@@ -140,4 +140,11 @@ export const blogData = [
     date: new Date('2025-09-24'),
     labels: ['ottelut', 'kierroksen katsaus'],
   },
+  {
+    id:23,
+    title: ' Työsuojeluviranomaiset kauhuissaan: Keravalla pelataan liigaa työmaalla',
+    ingress: 'Myös Sinkan museon rakennusmaalla pyörii huhuja',
+    date: new Date('2025-10-09'),
+    labels: ['ottelut', 'huhut'],
+  },
 ];
