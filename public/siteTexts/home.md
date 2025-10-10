@@ -3,7 +3,7 @@ Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat 
 
 ## Liigataulukko
 
-<div class="iframe-container" style="height: 35vh">
+<div class="iframe-container" style="height: 25vh">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrsKAeHpOKYyDRyqYteDJhPtID3y_HFnRJKMA4hxKTbzA9D5lE3M5ueFLbnwzVnoczdAcfU2hDCKql/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 
