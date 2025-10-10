@@ -7,7 +7,7 @@ Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrsKAeHpOKYyDRyqYteDJhPtID3y_HFnRJKMA4hxKTbzA9D5lE3M5ueFLbnwzVnoczdAcfU2hDCKql/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 
-#### Seuraavat ottelut
+### Seuraavat ottelut
 **8. kierroksen otteluparit on arvottu. Ottelut tulee olla pelattu 2.11. mennessä.**
 
 |                  Ottelu                      |  Valmentajat   |  Ottelu sovittu  |
