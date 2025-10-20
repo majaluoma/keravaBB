@@ -32,5 +32,5 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 - Assistant Coaches: 1
 - Cheerleaders:
 - Apothecary: 1 /50k
-- Team Value: 1 300 000
+- Team Value: 1 330 000
 - Current Team Value: 1 300 000
