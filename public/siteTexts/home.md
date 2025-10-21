@@ -3,18 +3,18 @@ Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat 
 
 ## Liigataulukko
 
-<div class="iframe-container" style="height: 28vh">
+<div class="iframe-container" style="height: 30vh">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrsKAeHpOKYyDRyqYteDJhPtID3y_HFnRJKMA4hxKTbzA9D5lE3M5ueFLbnwzVnoczdAcfU2hDCKql/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 
 ### Seuraavat ottelut
-8. kierroksen otteluparit on arvottu. Ottelut tulee olla pelattu 2.11. mennessä.
+Kahdeksannen kierroksen otteluparit on arvottu. Ottelut tulee olla pelattu 2.11. mennessä.
 
 |                  Ottelu                      |  Valmentajat   |  Ottelu sovittu  |
 |----------------------------------------------|----------------|------------------|
-| Kurkelan Kulmahampaat - Ahjon Kahjot | Aleksi vs. Tony  | - | 
+| Kurkelan Kulmahampaat - Ahjon Kahjot | Aleksi vs. Tony  | 21.10. | 
 | Keravan Juoksukaljat - Keravan Punaiset | Olli vs. Julle |  - |
-| Blackbears - Ahjon Kahjot | Oona vs. Tony | - |
+| Blackbears - Ahjon Kahjot | Oona vs. Tony | 14.10. |
 | Sompion Sopulit - Rappion Etujoukot | Teo vs. Eve |  - |
 
 ### Sovittuja käytäntöjä ja sääntöjä
