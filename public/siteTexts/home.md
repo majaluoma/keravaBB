@@ -13,9 +13,9 @@ Kahdeksannen kierroksen otteluparit on arvottu. Ottelut tulee olla pelattu 2.11.
 |                  Ottelu                      |  Valmentajat   |  Ottelu sovittu  |
 |----------------------------------------------|----------------|------------------|
 | Kurkelan Kulmahampaat - Ahjon Kahjot | Aleksi vs. Tony  | 21.10. | 
-| Keravan Juoksukaljat - Keravan Punaiset | Olli vs. Julle |  - |
+| Keravan Juoksukaljat - Keravan Punaiset | Olli vs. Julle |  22.10. |
 | Blackbears - Ahjon Kahjot | Oona vs. Tony | 14.10. |
-| Sompion Sopulit - Rappion Etujoukot | Teo vs. Eve |  - |
+| Sompion Sopulit - Rappion Etujoukot | Teo vs. Eve |  2.11. |
 
 ### Sovittuja käytäntöjä ja sääntöjä
 - Pitää olla maalatut figut
