@@ -147,4 +147,11 @@ export const blogData = [
     date: new Date('2025-10-09'),
     labels: ['ottelut', 'huhut'],
   },
+  {
+    id:24,
+    title: ' Keravan palloliiga -yhdistys ja muutama pelikatsaus',
+    ingress: 'Huhuja ja pelejä',
+    date: new Date('2025-11-07'),
+    labels: ['ottelut', 'huhut'],
+  },
 ];
