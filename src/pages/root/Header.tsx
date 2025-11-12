@@ -45,7 +45,7 @@ export default function Header() {
           className="h-10 w-10 rounded-full object-contain"
         />
         <h1 className="bg-secondary rounded-full px-5 py-2 text-center font-headline text-3xl text-white">
-          Kerava Cup
+          Keravan Palloliiga
         </h1>
       </a>
     </div>
