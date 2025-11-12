@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import profileImage1 from '@/assets/KPL_logo_pallot.png';
 
 /** Shown to user at the top of site */
 export default function Header() {
@@ -37,7 +38,12 @@ export default function Header() {
       }`}
       style={{ transitionProperty: 'transform' }}
     >
-      <a href="/">
+      <a href="/" className="flex items-center gap-3">
+        <img
+          src={profileImage1}
+          alt="Kerava Cup Logo"
+          className="h-10 w-10 rounded-full object-contain"
+        />
         <h1 className="bg-secondary rounded-full px-5 py-2 text-center font-headline text-3xl text-white">
           Kerava Cup
         </h1>
