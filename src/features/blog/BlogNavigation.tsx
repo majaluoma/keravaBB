@@ -7,7 +7,7 @@ import {
   SheetTitle,
   SheetTrigger,
 } from '@/components/ui/sheet';
-import profileImage1 from '@/assets/profileImage1.jpeg';
+import profileImage1 from '@/assets/KPL_logo_pallot.png';
 import LinkAccordion from '../../components/customUi/LinkAccordion';
 import { blogData } from '@/data/blogData';
 import SocialLinks from '@/components/customUi/SocialLinks';
