@@ -16,9 +16,9 @@
   --popover-foreground: hsl(0 0% 100%);
 
   /* Accent colors */
-  --primary: hsl(226, 68%, 43%);         /* Vivid sports green */
+  --primary: hsl(0, 100%, 33%);         /* Vivid sports red */
   --primary-foreground: hsl(0 0% 100%);
-  --secondary: hsl(12, 88%, 52%);        /* Energetic orange-red */
+  --secondary: hsl(0, 0%, 20%);        /* grey */
   --secondary-foreground: hsl(0 0% 100%);
   --accent: hsl(210, 20%, 95%);
   --accent-foreground: hsl(0 0% 10%);
