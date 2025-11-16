@@ -5,7 +5,7 @@
 
 Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemattoman Keravalaisen olut tehtaan PR-edustaja antoikin joukkueelle samantien kiellon käyttää mitään ~~Sinebrychoffin~~ nimeltä mainitsemattoman Keravalaisen olut tehtaan materiaalia tai nimeä toiminnassaan. Keravan Punaisista voikin sanoa monta asiaa, ja niin PR-edustaja sanoikin, mutta luovuttajia he eivät ole. Siispä takaiskusta motivoituneina, heidän päämääränsä on nyt osallistua tarunhohtoiseen Kerava Cuppiin ja voittaa se. Silloin ~~Sinebrychoffin~~ nimeltä mainitsemattoman Keravalaisen olut tehtaan johto ei voi tehdä muuta kuin tunnustaa joukkueen bärndiarvo ja antaa heille sponsorisopimus (ja paljon olutta).
 
-## Keravan Punaisten joukkue 23.9.2025:
+## Keravan Punaisten joukkue 16.11.2025:
 
 | #  | Nimi              | Positio    | MA | ST | AG | PA | AV | Skills                                      | Hiring Fee | SPP | MNG | NI | TR | Current Value |
 |----|-------------------|------------|----|----|----|----|----|---------------------------------------------|------------|-----|-----|----|----|---------------|
