@@ -8,14 +8,15 @@ Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat 
 </div>
 
 ### Seuraavat ottelut
-Yhdeksännen kierroksen otteluparit on arvottu. Ottelut tulee olla pelattu 23.11. mennessä.
+Runkosarjan viimeiset ottelut ovat jäljellä! Ottelut tulee olla pelattu 21.12. mennessä.
 
 |                  Ottelu                      |  Valmentajat   |  Ottelu sovittu  |
 |----------------------------------------------|----------------|------------------|
-| Kurkelan Kulmahampaat - Keravan Juoksukaljat | Aleksi vs. Olli  | - | 
-| Rappion Etujoukot - Keravan Punaiset | Eve vs. Julle |  - |
-| Blackbears - Sompion Sopulit | Oona vs. Teo | - |
-| Ahjon Kahjot - Sompion Sopulit | Tony vs. Teo |  - |
+| Kurkelan Kulmahampaat -  Sompion Sopulit | Aleksi vs. Teo  | - | 
+| Rappion Etujoukot - Kurkelan Kulmahampaat | Eve vs. Aleksi |  - |
+| Blackbears -  Rappion Etujoukot | Oona vs. Eve | - |
+| Blackbears -  Keravan Juoksukaljat | Oona vs. Olli | - |
+| Ahjon Kahjot - Keravan Punaiset | Tony vs. Julle |  - |
 
 ### Sovittuja käytäntöjä ja sääntöjä
 - Pitää olla maalatut figut
