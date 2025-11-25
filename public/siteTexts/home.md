@@ -12,10 +12,10 @@ Runkosarjan viimeiset ottelut ovat jäljellä! Ottelut tulee olla pelattu 21.12.
 
 |                  Ottelu                      |  Valmentajat   |  Ottelu sovittu  |
 |----------------------------------------------|----------------|------------------|
-| Kurkelan Kulmahampaat -  Sompion Sopulit | Aleksi vs. Teo  | - | 
+| Kurkelan Kulmahampaat -  Sompion Sopulit | Aleksi vs. Teo  | 6.12. | 
 | Rappion Etujoukot - Kurkelan Kulmahampaat | Eve vs. Aleksi |  - |
 | Blackbears -  Rappion Etujoukot | Oona vs. Eve | - |
-| Blackbears -  Keravan Juoksukaljat | Oona vs. Olli | - |
+| Blackbears -  Keravan Juoksukaljat | Oona vs. Olli | 6.12. |
 | Ahjon Kahjot - Keravan Punaiset | Tony vs. Julle |  - |
 
 ### Sovittuja käytäntöjä ja sääntöjä
