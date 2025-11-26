@@ -22,8 +22,10 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 | 12 | Nipa              | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |     |    |    | 20,000        |
 | 13 | Pylly Aleksi      | Linjamies  | 6  | 3  | 3+ | 4+  | 8+ | Drunkard, Thick Skull, Block               | 50,000     | 4    |     |    |    | 50,000        |
 | 16 | Mörkö             | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1), Brawler | 140,000     | 10    |     |    |    | 170,000        |
+| 13 | Guts              | Berserker  | 6  | 3  | 3+ | 5+  | 8+ | Jump up, Frenzy, Block               | 90,000     |     |     |    |    | 90,000        |
 
-- Treasury: 145,000
+
+- Treasury: 55,000
 - Dedicated Fans: 5/6
 - Total Touchdowns: 12
 - Total Casualties: 26 
@@ -32,5 +34,5 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 - Assistant Coaches: 1
 - Cheerleaders:
 - Apothecary: 1 /50k
-- Team Value: 1 320 000
-- Current Team Value: 1 270 000
+- Team Value: 1 410 000
+- Current Team Value: 1 360 000
