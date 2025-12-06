@@ -5,22 +5,26 @@
 
 *Valmentaja: Oona, Roster: Human*
 
-[Blackbears BB Roster](https://bbroster.com?code=t9t295m0f0r4d5y1p42n2a1e53v20p42s5p42e53v20c00000a1n1p42s2p39e18s4a1v20p39s2i00001p41s4p41a2e2.13s10v40p39p39n1s2p40v40a2e40.44s6p41s4p5a1e50v20s6IBlackbears:Orson:Nalle:Mischa:Bamse:Teddy:Winnie:Bj%C3%B6rn%20II:Bernard:Baloo%20Junior:Koda:Ursula:Paddington:Wojtek)
+[Blackbears BB Roster](https://bbroster.com?code=t9t270m0f0d5r4y1p42v20n2e53s8a1p42a1s3v20e53p42v20s4n1a1e53c00000p42a1s1m1v10e23n1p39v20s4a1e18p39i00001s2p41a1v20e13s3p41e2.13.16a3s7v60p39p39s2n1p40v40s10e40.44a2p5e50.57v30x13m1a2s2n1p41s4x12IBlackbears:Orson:Nalle:Mischa:Bamse:Teddy:Winnie:Bj%C3%B6rn%20II:Bernard:Baloo%20Junior:Koda:Ursula:Wojtek:Paddington)
 
 #### Roster Summary
 **Blackbears**
-* 4x Human Blitzer (380 000)
-    * 2x Guard
+* 4x Human Blitzer (410 000)
+    * 3x Guard
+    * 1x Tackle
+       * MNG 
 * 4x Human Lineman (220 000)
     * Kick
-* 3x Human Catcher (235 000)
-    * Diving Catch, Block
+* 3x Human Catcher (275 000)
+    * Diving Catch, Block, Fend
+    * Block
 * Human Thrower (120 000)
     * Dump-off, Nerves Of Steel
 * Ogre (160 000)
-    * Brawler
+    * Brawler, Pile Driver
+       * MNG     
 
 **Extras**
 4x Rerolls, 5x Dedicated Fans, Apothecary
 
-**CTV: 1 365 000, Roster Total: 1 365 000**
+**CTV: 1 180 000, Roster Total: 1 445 000**
