@@ -14,10 +14,10 @@
     * 1x Tackle
        * MNG 
 * 4x Human Lineman (220 000)
-    * Kick
+    * 1x Kick
 * 3x Human Catcher (275 000)
-    * Diving Catch, Block, Fend
-    * Block
+    * 1x Diving Catch, Block, Fend
+    * 1x Block
 * Human Thrower (120 000)
     * Dump-off, Nerves Of Steel
 * Ogre (160 000)
