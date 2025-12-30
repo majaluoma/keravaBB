@@ -11,15 +11,15 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 |----|-------------------|------------|----|----|----|----|----|---------------------------------------------|------------|-----|-----|----|----|---------------|
 | 1  | Sonja Surma       | Valkyyri   | 7  | 3  | 3+ | 3+ | 8+ | Catch,Pass,Dauntless,Strip Ball,Dodge,Block | 95,000     |9     |     |  X |    | 135,000        |
 | 2  | Kimmo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block                               | 105,000    |2   |     | X  |    | 125,000       |
-| 3  | Seppo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block, Pile driver                  | 105,000    | 10  |     |    |    | 135,000       |
+| 3  | Seppo Sudenpoika  | Ulfwerener | 6  | 4  | 4+ | -  | 9+ | Frenzy, Block, Mighty Blow                  | 105,000    |   |     |    |    | 155,000       |
 | 14 | Birgit Börösdottir| Valkyyri   | 7  | 3  | 3+ | 3  | 8+ | Catch, Pass, Dauntless, Strip Ball          | 95,000     |     |     |    |    | 95,000        |
 | 5  | Simo Sima         | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |3   |     |    |    | 50,000        |
-| 6  | Numero Kuusi      | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |  X   | X   |    | 50,000        |
+| 6  | Numero Kuusi      | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |     |     | X   |    | 50,000        |
 | 7  | Antero Sakkanen   | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block                | 50,000     |2    |     |  X |    | 50,000        |
 | 8  | Edgar Stout       | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Stand firm    | 50,000     |5    |     |  X |    | 60,000        |
 | 9  | Riitta Radler     | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard,Thick Skull,Block,Dirty player(+1) | 50,000     |1    |     |    |    | 60,000        |
 | 11 | Iina Ipa          | Linjamies  | 6  | 3  | 3+ | 4+ | 8+ | Drunkard, Thick Skull, Block, Kick          | 50,000     |2     |     |    |    | 70,000        |
-| 12 | Nipa              | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |     |     |    |    | 20,000        |
+| 12 | Nipa              | Bissepossu | 5  | 1  | 3+ | -  | 6+ | Pick Me Up, Stunty, Titchy, Dodge, No hands | 20,000     |4   |     |    |    | 20,000        |
 | 13 | Pylly Aleksi      | Linjamies  | 6  | 3  | 3+ | 4+  | 8+ | Drunkard, Thick Skull, Block               | 50,000     | 4    |     |    |    | 50,000        |
 | 16 | Mörkö             | Yheti   | 5  | 5  | 4+ | - | 9+ | Claws, Disturbing Presence, Frenzy, Loner, Unchanneled Fury, Mighty blow (+1), Brawler | 140,000     | 10    |     |    |    | 170,000        |
 | 13 | Guts              | Berserker  | 6  | 3  | 3+ | 5+  | 8+ | Jump up, Frenzy, Block               | 90,000     |     |     |    |    | 90,000        |
@@ -30,9 +30,9 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 - Total Touchdowns: 12
 - Total Casualties: 26 
 - League Points: 31
-- Team Rerolls: 3 x 60k
+- Team Rerolls: 4 x 60k
 - Assistant Coaches: 1
 - Cheerleaders:
 - Apothecary: 1 /50k
 - Team Value: 1 410 000
-- Current Team Value: 1 360 000
+- Current Team Value: 1 500 000
