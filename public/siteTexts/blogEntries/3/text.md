@@ -5,7 +5,7 @@
 
 *Valmentaja: Oona, Roster: Human*
 
-[Blackbears BB Roster](https://bbroster.com?code=t9t270m0f0d5r4y1p42v20n2e53s8a1p42a1s3v20e53p42v20s4n1a1e53c00000p42a1s1m1v10e23n1p39v20s4a1e18p39i00001s2p41a1v20e13s3p41e2.13.16a3s7v60p39p39s2n1p40v40s10e40.44a2p5e50.57v30x13m1a2s2n1p41s4x12IBlackbears:Orson:Nalle:Mischa:Bamse:Teddy:Winnie:Bj%C3%B6rn%20II:Bernard:Baloo%20Junior:Koda:Ursula:Wojtek:Paddington)
+[Blackbears BB Roster](https://2020.bbroster.com?code=t9t100m0f0y1d5r4p42a1s8v20e53n2p42s3e53a1v20p42c00000a1v20s4e53n1p42e23m1n1s1v10a1p39a1s4e18v20p39s2i00001p41v20a1s3e13p41a3e2.13.16v60s7p39p39n1s2p40e40.44v40s10a2p41s4p5IBlackbears:Orson:Nalle:Mischa:Bamse:Teddy:Winnie:Bj%C3%B6rn%20II:Bernard:Baloo%20Junior:Koda:Ursula:Paddington:Puh)
 
 #### Roster Summary
 **Blackbears**
@@ -20,11 +20,9 @@
     * 1x Block
 * Human Thrower (120 000)
     * Dump-off, Nerves Of Steel
-* Ogre (160 000)
-    * Brawler, Pile Driver
-       * MNG     
+* Ogre (140 000)    
 
 **Extras**
 4x Rerolls, 5x Dedicated Fans, Apothecary
 
-**CTV: 1 180 000, Roster Total: 1 445 000**
+**CTV: 1 320 000, Roster Total: 1 415 000**
