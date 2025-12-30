@@ -28,11 +28,11 @@ Nähtyään (ja haistettuaan) joukkueen, ~~Sinebrychoffin~~ nimeltä mainitsemat
 - Treasury: 55,000
 - Dedicated Fans: 5/6
 - Total Touchdowns: 12
-- Total Casualties: 26 
+- Total Casualties: 27 
 - League Points: 31
 - Team Rerolls: 4 x 60k
 - Assistant Coaches: 1
 - Cheerleaders:
 - Apothecary: 1 /50k
-- Team Value: 1 410 000
-- Current Team Value: 1 500 000
+- Team Value: 1 470 000
+- Current Team Value: 1 470 000
