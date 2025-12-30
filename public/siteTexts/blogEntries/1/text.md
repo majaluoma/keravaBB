@@ -10,7 +10,7 @@ Total value: 1 410 000 Current value: 1 410 000  Treasury: 200 000
 |3|Siili|Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull, Mighty Blow                                        |70,000    | 0 |   |  |  |90,000|
 |4|Mauri Rautakoura|Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull, Mighty Blow, Guard                      |70,000    | 11|   |  |  |110,000|
 |5|Kanki|Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull, Mighty Blow                                        |70,000    | 4 |   | x|  |90,000|
-|6|Sixi|Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull, Claws                                               |70,000    | 8 |   |  |  |90,000|
+|6|Sixi|Dwarf    |4|3|4+|6+|10+|Block, Iron Hard Skin, Thick Skull, Claws, Dauntless                                    |70,000    | 0 |   |  |  |110,000|
 |8|Mora|Stabba   |6|3|3+|5+|8+|Shadowing, Stab                                                                          |70,000    | 4 |   |  |  |70,000|
 |11| Tölkki |Hobgoblin|6|3|3+|4+|8+| Sure hands, Block                                                                  |40,000    | 2 |   |  |  |70,000|
 |12||Hobgoblin|6|3|3+|4+|8+|                                                                                            |40,000    |   |   |  |  |40,000|
