@@ -1,22 +1,21 @@
 # Tervetuloa Keravan Blood Bowl -liigan kotisivuille
 Kerava Cup järjestetään ensimmäisen kerran 2025, jolloin toisistaan ottavat mittaa seitsemän paikallista kaduilta kaavittua joukkuetta.
 
-## Liigataulukko
+## Semifinaalit käynnissä!
+Neljä runkosarjan parasta joukkuetta jatkavat semifinaaleihin: Keravan Juoksukaljat, Kurkelan Kulmahampaat, Keravan Punaiset ja Blackbears. Semifinaalivastustajat on arvottu. Semifinaalien voittajat jatkavat finaaliin, ja häviäjät pronssiotteluun.
+
+|                 Vastustajat                  |   Ottelu      |  Pvm  | Tulos  |
+|----------------------------------------------|---------------|-------|--------|
+| Blackbears - Keravan Juoksukaljat            | Semifinaali   | 6.12. | 2 – 1  |
+| Kurkelan Kulmahampaat - Keravan Punaiset     | Semifinaali   |  -    |   -    |
+| Blackbears -                                 | Pronssiottelu | -     | -      |
+| Keravan Juoksukaljat -                       | Finaali       |  -    |   -    |
+
+## Runkosarjan Liigataulukko
 
 <div class="iframe-container" style="height: 30vh">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrsKAeHpOKYyDRyqYteDJhPtID3y_HFnRJKMA4hxKTbzA9D5lE3M5ueFLbnwzVnoczdAcfU2hDCKql/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
-
-### Seuraavat ottelut
-Runkosarjan viimeiset ottelut ovat jäljellä! Ottelut tulee olla pelattu 21.12. mennessä.
-
-|                  Ottelu                      |  Valmentajat   |  Ottelu sovittu  |
-|----------------------------------------------|----------------|------------------|
-| Kurkelan Kulmahampaat -  Sompion Sopulit | Aleksi vs. Teo  | 6.12. | 
-| Rappion Etujoukot - Kurkelan Kulmahampaat | Eve vs. Aleksi |  - |
-| Blackbears -  Rappion Etujoukot | Oona vs. Eve | 6.12. |
-| Blackbears -  Keravan Juoksukaljat | Oona vs. Olli | 6.12. |
-| Ahjon Kahjot - Keravan Punaiset | Tony vs. Julle |  5.12. |
 
 ### Sovittuja käytäntöjä ja sääntöjä
 - Pitää olla maalatut figut
