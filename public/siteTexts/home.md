@@ -6,7 +6,7 @@ Neljä runkosarjan parasta joukkuetta jatkavat semifinaaleihin: Keravan Juoksuka
 
 |                 Vastustajat                  |   Ottelu      |  Pvm  | Tulos  |
 |----------------------------------------------|---------------|-------|--------|
-| Blackbears - Keravan Juoksukaljat            | Semifinaali   | 6.12. | 2 – 1  |
+| Blackbears - Keravan Juoksukaljat            | Semifinaali   | 5.1.  | 2 – 1  |
 | Kurkelan Kulmahampaat - Keravan Punaiset     | Semifinaali   |  -    |   -    |
 | Blackbears -                                 | Pronssiottelu | -     | -      |
 | Keravan Juoksukaljat -                       | Finaali       |  -    |   -    |
