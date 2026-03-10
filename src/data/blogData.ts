@@ -154,4 +154,11 @@ export const blogData = [
     date: new Date('2025-11-07'),
     labels: ['ottelut', 'huhut'],
   },
+  {
+    id:25,
+    title: 'Kurkelan kulmahampaat ovat Keravan mestarijoukkue ',
+    ingress: 'BB Uutiset',
+    date: new Date('2026-03-10'),
+    labels: ['ottelut'],
+  },
 ];
